@@ -13,7 +13,7 @@
 			
 			<p>This data was collected during the final days of May 2011 &mdash; institutions may have modified their URI structures since this point.</p>
 			
-			<p>The data represents key areas of a total of 20 higher education institutional websites, as well as highlighting the differences that institutions have in URI structure.</p>
+			<p>The data represents key areas of a total of 40 higher education institutional websites, as well as highlighting the differences that institutions have in URI structure.</p>
 			
 			<p>The red highlights represent where a website (at the time of the survey) goes against Linking You recommended practices, and where such a behaviour is heavily discouraged for technical or usability reasons. In the case of the "WWW Required" column it means that the site is not accessible without the <span class="cleanuri">www.</span> prefix (see <a href="http://lncn.eu/toolkit/domains">Domains</a> for more on this), and in the case of the "404 Redirect" column it means that the behaviour effectively breaks the internet's expected behaviour model.</p>
 			
