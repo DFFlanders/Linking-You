@@ -56,6 +56,18 @@
 		
 		<p>The Linking You Toolkit is a collection of the outcomes of this project, and is intended as a starting point for institutions looking to better understand and manage their use of identifiers on their .ac.uk website.</p>
 	
-	</div> 
+	</div>
+	
+	<div class="box bg_light">
+	
+		<h2>Get The Poster</h2>
+		
+		<p><img src="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster_300px.png" title="Linking You Poster"></p>
+		
+		<p>As part of the project we've produced a poster with our recommended URI structure and some handy notes, great for decorating any large, conveniently empty wall.</p>
+		
+		<p>Want a print-ready PDF file? <a href="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster.pdf">Grab it from our source repository</a>.</p>
+	
+	</div>
 
 </aside>
