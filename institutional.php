@@ -7,9 +7,10 @@
 		<p>If you want, you can <a onclick="$('#modal_institution_survey').dialog('open');">see the source data</a> for this section.</p>
 		
 		<div id="modal_institution_survey" title="Institutional URIs Survey">
+			
 			<iframe style="width:100%;height:400px" frameborder='0' src='https://spreadsheets1.google.com/pub?hl=en_GB&hl=en_GB&key=0AuO04KEqnewAdC1mSzhYYXpMZWZfM2I5ZXpvb0JYWkE&single=true&gid=1&output=html&widget=true'></iframe>
 		
-			<h2>About The Data</h2>
+			<h2 class="margin_top">About The Data</h2>
 			
 			<p>This data was collected during the final days of May 2011 &mdash; institutions may have modified their URI structures since this point.</p>
 			
