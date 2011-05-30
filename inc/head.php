@@ -61,7 +61,7 @@
 			<li<?php if ($page == 'institution') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/institution">Institutional URIs</a></li>
 	        <li<?php if ($page == 'model') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/model">Data Model</a></li>
 	        <li<?php if ($page == 'recommendations') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/recommendations">Recommendations</a></li>
-	        <li<?php if (isset($page['glossary'])) echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/glossary">Glossary</a></li>
+	        <li<?php if ($page == 'glossary') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/glossary">Glossary</a></li>
     	</ul>  
 	</nav> 
 	
