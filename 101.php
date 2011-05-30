@@ -14,7 +14,7 @@
 		
 		<p>In the case of academic institutions the domain is mostly unchangeable, being inextricably linked with the institution to which it is associated. A change of domain name for an established institution would be extremely rare, and only happen should the institution substantially change its name (such as the University of Lincolnshire and Humberside becoming the University of Lincoln, and <span class="cleanuri">ulh.ac.uk</span> becoming <span class="cleanuri">lincoln.ac.uk</span>). However, the resource identifier is easily altered by changing the configuration of a web server. This toolkit therefore focusses on the resource identifier part of the URI, with the exception of the <a href="http://lncn.eu/toolkit/domains">Domains</a> section.</p>
 	
-	<h2>Discuss This</h2>
+	<!--<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -33,7 +33,7 @@
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>-->
 	
 </div> 
 
