@@ -62,7 +62,7 @@
 	
 		<h2>Get The Poster</h2>
 		
-		<p><img src="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster_300px.png" style="width:100%" title="Linking You Poster"></p>
+		<p><a href="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster.png"></a><img src="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster_300px.png" style="width:100%" title="Linking You Poster"></a></p>
 		
 		<p>As part of the project we've produced a poster with our recommended URI structure and some handy notes, great for decorating any large, conveniently empty wall.</p>
 		
