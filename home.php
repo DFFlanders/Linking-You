@@ -23,7 +23,7 @@
 	
 	<p>The web is an essential part of life, and getting to places on the web quickly and easily is just as essential. The Toolkit provides a standard way of thinking about your institutional URI structure which make it easier for people to both remember your web addresses and also locate where they are in your web site. It also helps prepare your institution for the world of linked data by proposing a clear and concise model and vocabulary for your data, making smooth integration with other systems easier and faster.</p>
 	
-	<h2>Discuss This</h2>
+	<!--<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -42,7 +42,7 @@
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
 	
 </div> 
 
