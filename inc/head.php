@@ -22,7 +22,7 @@
 	<script src="https://cwd.online.lincoln.ac.uk/3.0/js/modernizr.js"></script> 
 	
 	<style> 
-	#cwd_header { background: url('http://lncn.eu/toolkit/img/header.jpg') center; }
+	#cwd_header { background: url('http://lncn.eu/img/toolkit.jpg') center; }
 	.todo { font-weight: bold; color: red; }
 	.uri, .cleanuri {
 		font-family: Courier, monospace;
