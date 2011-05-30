@@ -9,7 +9,7 @@
 		<p class="notice">This data was collected during the final days of May 2011 &mdash; institutions may have modified their URI structures since this point.</p>
 		
 		<p>The data represents key areas of a total of 40 higher education institutional websites, as well as highlighting the differences that institutions have in URI structure. We studied 10 institutions from four of the UK university collaboration groups &mdash; the 1994 Group, the Russell Group, the Alliance Group and the Million+ group.</p>
-		
+				
 		<p>The red highlights represent where a website (at the time of the survey) goes against Linking You recommended practices, and where such a behaviour is heavily discouraged for technical or usability reasons. In the case of the "WWW Required" column it means that the site is not accessible without the <span class="cleanuri">www.</span> prefix (see <a href="http://lncn.eu/toolkit/domains">Domains</a> for more on this), and in the case of the "404 Redirect" column it means that the behaviour effectively breaks the internet's expected behaviour model.</p>
 		
 		<p>An orange highlight in the "WWW Required" column indicates that although the behaviour is technically sound and does not significantly impact the user's experience it still goes against the Linking You recommendations.</p>
@@ -19,7 +19,11 @@
 		<h2>Everyone Is Different</h2>
 		
 		<p>
-			
+			As this is the first study of it's kind into higher educational institution website URI structures, and there are currently no recommendations out there, we weren't expecting little correlation between the websites and to some extent this is the case.
+		</p>
+		
+		<p>
+			There is very little agreement about the URI structure for undergraduate and postgraduate information and course pages, and especially for postgraduate course information there is no agreement whatsoever, with only one institution - Kingston - with a URI that follows the Linking You recommendation (/postgraduate/courses).
 		</p>
 	
 	<!--<h2>Discuss This</h2>
