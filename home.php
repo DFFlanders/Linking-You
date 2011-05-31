@@ -10,17 +10,14 @@
 
 	<h2>What does this Toolkit look at?</h2>
 	
-<<<<<<< HEAD
 	<dl>
 		<dt><a href="http://lncn.eu/toolkit/spacetime">Space-time</a></dt>
 			<dd>Thinking about the learning landscape.</dd>
-=======
 	<p>This toolkit looks at 7 specific areas, from which you can mix and match recommendations depending on what you're trying to achieve.</p>
 	
 	<dl>
 		<dt><a href="http://lncn.eu/toolkit/spacetime">Space-time</a></dt>
 			<dd>Mapping the notion of resource identifiers to the physical world of space and time.</dd>
->>>>>>> efe49d7571c17890197fd611775aa90796350531
 		<dt><a href="http://lncn.eu/toolkit/recommendations">Recommendations</a></dt>
 			<dd>A summary of our findings and recommendations for excellent identifier design.</dd>
 		<dt><a href="http://lncn.eu/toolkit/101">URI 101</a></dt>
@@ -39,7 +36,7 @@
 	
 	<p>The web is now fundamental to the activity and idea of the university. This Toolkit provides a standard way of thinking about your institutional URI structure, making it easier for people (and their browsers) to both remember your web addresses and locate where they are in your web site. It also helps prepare your institution for the world of linked data by proposing a clear and concise model for your data, making smooth integration with other systems easier and faster. A good URI structure can be easily understood by both humans and machines.</p>
 	
-	<p>This may seem like an obscure technical project to many people, but we think there will be a number of benefits, both internal and external, in having undertaken this work. We’ve situated this project within the wider context of the <a href="http://learninglandscapes.lincoln.ac.uk">Learning Landscapes project at Lincoln and have tried to think of identifiers as expressing and sign-posting new forms of spatiality. Just as traditional space architects offer easy to understand blueprints so that people can imagine the space, Linking You has offered a blueprint for institutional identifers. We don't expect every institution to adopt the exact same syntax, but we do hope that it leads to a new shared vocabularly for institutional identifiers. The visual representations created during the project will be used at Lincoln to communicate proposed changes to the online research, teaching and learning environment. Furthermore, our work on the project will influence our provision of open data allowing for greater re-use and personalisation of information for students and staff. We hope the Toolkit provides similar benefits to you, too.</p>
+	<p>This may seem like an obscure technical project to many people, but we think there will be a number of benefits, both internal and external, in having undertaken this work. We’ve situated this project within the wider context of the <a href="http://learninglandscapes.lincoln.ac.uk">Learning Landscapes</a> project at Lincoln and have tried to think of identifiers as expressing and sign-posting new forms of spatiality. Just as traditional space architects offer easy to understand blueprints so that people can imagine the space, Linking You has offered a blueprint for institutional identifers. We don't expect every institution to adopt the exact same syntax, but we do hope that it leads to a new shared vocabularly for institutional identifiers. The visual representations created during the project will be used at Lincoln to communicate proposed changes to the online research, teaching and learning environment. Furthermore, our work on the project will influence our provision of open data allowing for greater re-use and personalisation of information for students and staff. We hope the Toolkit provides similar benefits to you, too.</p>
 
 	<p>Although URIs are <a href="http://linkingyou.blogs.lincoln.ac.uk/2011/04/18/the-evolution-of-the-address-bar/">increasingly being obfuscated</a> by developments in browser design, they are also increasingly being integrated in browser search functionality such that the benefits of providing clear, plain language URIs has never been greater. As well as providing benefits to your website visitors (and your SEO), technical staff at your university should benefit from a consistent approach to URIs so that it is significantly easier for them to manage the relationships between resources, as well as making it simpler to produce documentation which refers to ‘clean’ URIs. Alongside this, your University will be able to implement a more efficient method of redirecting users to their intended destination when a resource has moved.</p>
 
