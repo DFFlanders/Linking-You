@@ -34,7 +34,7 @@
 		color: green;
 	}
 	.redirect_highlight{
-		color: #3030E4;
+		font-weight: bold;
 	}
 	</style> 
 	

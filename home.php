@@ -13,13 +13,21 @@
 	<p>This toolkit looks at <span class="todo">n</span> specific areas, from which you can mix and match recommendations depending on what you're trying to achieve.</p>
 	
 	<dl>
+		<dt><a href="http://lncn.eu/toolkit/spacetime">Space-time</a></dt>
+			<dd>Lorem ipsum...</dd>
+		<dt><a href="http://lncn.eu/toolkit/recommendations">Recommendations</a></dt>
+			<dd>A summary of our findings and recommendations for excellent identifier design.</dd>
 		<dt><a href="http://lncn.eu/toolkit/101">URI 101</a></dt>
 			<dd>A crash course on what URIs are, how they hold the web together and how they relate to content.</dd>
 		<dt><a href="http://lncn.eu/toolkit/institution">Institutional URIs</a></dt>
 			<dd>How URIs on a .ac.uk website relate to specific parts of the institution's operations and structure.</dd>
+		<dt><a href="http://lncn.eu/toolkit/domains">Domains</a></dt>
+			<dd>Recommendations for selecting and maintaining well structured domains and subdomains.</dd>
+		<dt><a href="http://lncn.eu/toolkit/institution">Institutional URIs</a></dt>
+			<dd>Our source data and findings on how institutions currently arrange their identifiers.</dd>
 		<dt><a href="http://lncn.eu/toolkit/model">Data Model</a></dt>
-			<dd>Looking at institutional data and ways to accurately represent it in terms of URIs.</dd>
-		<dt><a href="http://lncn.eu/toolkit/vocabulary">Vocabulary</a></dt>
+			<dd>Our recommended URI structure, with a look at how it fits into Linked Data.</dd>
+		<dt><a href="http://lncn.eu/toolkit/glossary">Glossary</a></dt>
 			<dd>A collection of proposed standardised terms for the same (or similar) concepts across institutions.</dd>
 	</dl>
 	
