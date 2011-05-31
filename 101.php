@@ -36,6 +36,14 @@
 			<h3><a href="#consistent">Consistent</a></h3>
 			<div id="consistent">
 				<p>URIs across a site must be consistent in format. Once you pick your URI structure, be consistent and follow it! Having good URI structure for part of the site means that you still have poor structure overall. In order for a user to trust that URIs work a certain way on a site, the format must be consistent. If you must switch structure (maybe you’re updating a poorly-designed site), use 301 redirects as previously mentioned.</p>
+				
+				<p>
+					An example of poor consistency would be having undergraduate information located at .ac.uk/undergraduate and postgraduate information at .ac.uk/study/postgraduate.
+				</p>
+				
+				<p>
+					Consistent structure = maintainable websites.
+				</p>
 			</div>
 			
 			
@@ -54,7 +62,7 @@
 
    				<blockquote>Find out more about Computing at http://example.ac.uk/school/computing</blockquote>
 
-				<p>Now, try to remember the first one without looking at it.</p>
+				<p>Now, try to remember the first one without looking at it. In short, URIs should describe your content (but in a short and succinct manner).</p>
 				
 				<p>Whatever method you use to create your website, it must be able to generate human readable URIs. Increasingly web browsers are allowing people to <a href="http://linkingyou.blogs.lincoln.ac.uk/2011/04/18/the-evolution-of-the-address-bar/">search through their history</a> based on URI fragments, meaning that while a URI such as "example.ac.uk/computing" will be easily found, "institution.ac.uk/_depts/cs" won’t be. Even worse would be the style of URI which is often created by an incorrectly configured CMS, such as "insitution.ac.uk/content/027463".</p>
 							
@@ -81,6 +89,17 @@
 					For example, if you you want to move from http://example.ac.uk/undergraduate to http://example.com/undergraduate/courses you'd provide a link, which when clicked, would AJAX load in the content from the other page and update the URI in the navigation bar, or for a user with an older browser it would just load the other page as normal.
 				</p>
 							
+			</div>
+			
+			<h3><a href="#subdomains">Limit the number of subdomains</a></h3>
+			<div id="subdomains">
+				<p>
+					There may occasionally be a valid reason that content is on a different subdomain compared to the rest of the content, and with appropriate linking between the two should be okay. However if you split all your content subjects across lots of subdomains e.g. home.example.ac.uk (as opposed to example.ac.uk/home) and there aren't all of the correct 301 redirects in place then users will get confused and frustrated, and search engines will just give up on your site.
+				</p>
+				
+				<p>
+					There is a very well known principle called KISS (Keep It Short and Simple) that is very appropriate in this situation.
+				</p>
 			</div>
 			
 		</div>
