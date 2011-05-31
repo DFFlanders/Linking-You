@@ -16,8 +16,8 @@
 		
 	<h2>Best Practises</h2>
 	
-	<p style="color:red">
-		TODO: Something about best practises here...
+	<p>
+		Developing a website, small or large, isn't a small undertaking. Below are a number of best practises to bear in mind when it comes to developing the URI structure.
 	</p>
 	
 	<div class="margin_top">
