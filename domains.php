@@ -16,7 +16,7 @@
 		
 	<h2>Avoid Mystery Subdomains</h2>
 	
-		<p>It may be tempting to create subdomains with long-winded descriptions, internal acronyms, codenames or similar. This should be avoided wherever possible; if you've got a service which allows people to top up their printing credit try to give it a domain such as <span class="cleanuri">print.</span> or <span class="cleanuri">topup.</span>, rather than <span class="cleanuri">topupmyprintaccount.</span> or <span class="cleanuri">onlinemoneyloader.</span>. The shorter domains are far easier to remember, and vastly more intuitive.</p>
+		<p>It may be tempting to create subdomains with long-winded descriptions, internal acronyms, codenames or similar. This should be avoided wherever possible. If you've got a service which allows people to top up their printing credit try to give it a domain such as <span class="cleanuri">print.</span> or <span class="cleanuri">topup.</span>, rather than <span class="cleanuri">topupmyprintaccount.</span> or <span class="cleanuri">onlinemoneyloader</span>. The shorter domains are far easier to remember, and much more intuitive.</p>
 	
 	<h2>Discuss This</h2>
 	
