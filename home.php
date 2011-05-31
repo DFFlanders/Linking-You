@@ -27,6 +27,23 @@
 	
 	<p>The web is an essential part of life, and getting to places on the web quickly and easily is just as essential. The Toolkit provides a standard way of thinking about your institutional URI structure which make it easier for people to both remember your web addresses and also locate where they are in your web site. It also helps prepare your institution for the world of linked data by proposing a clear and concise model and vocabulary for your data, making smooth integration with other systems easier and faster.</p>
 	
+	<p>This may seem like an obscure technical project to many people, but we think there will be a number of benefits, both internal and external, in undertaking this work. For students and academic staff at Lincoln, we’ve situated this project within the wider context of the Learning Landscape at Lincoln and will try to demonstrate the use of identifiers in expressing and sign-posting virtual spatiality. Just as traditional space architects offer easy to understand blueprints so that people can imagine the space, Linking You should give staff and students a clearer and more persistent syntax, which sign-posts the virtual space they occupy. The visual representations created during the project will be used to communicate the proposed changes to the online research, teaching and learning environment. Furthermore, the provision of open data from the university’s websites will allow greater re-use and personalisation of information for students and staff.</p>
+
+	<p>Technical staff at the university should benefit from a consistent approach to URIs means that it is significantly easier for them to manage the relationships between resources, as well as making it dramatically simpler to produce documentation which refers to ‘clean’ URIs. Alongside this, the University would be able to implement a more efficient method of redirecting users to their intended destination where a resource has moved.</p>
+
+	<p>The university as a whole will benefit from our thinking about systematised approach to a logical and human readable URI addressing system for online services. If implemented, they should experience:</p>
+	
+	<ul>
+		<li>Better IT systems integration.</li>
+		<li>Improved navigation of virtual spaces.</li>
+		<li>Appropriate conventions for differing technology platforms i.e. mobile/desktop devices.</li>
+		<li>Future proofing against non-sustainable URI management practices.</li>
+		<li>Ability to ‘design with data’</li>
+		<li>Improve discoverability of resources (and SEO)</li>
+	</ul>
+
+	<p>The university sector will hopefully benefit from our project documentation, data representations and modelling, case studies and prototyping. This is a small project that we hope will offer useful contributions to a wider conversation across the sector.</p>
+	
 	<!--<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
