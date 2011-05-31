@@ -14,12 +14,12 @@
 		
 		<p>An orange highlight in the "WWW Required" column indicates that although the behaviour is technically sound and does not significantly impact the user's experience it still goes against the Linking You recommendations.</p>
 		
-		<p>Where a column has green highlights they indicate that the URI for that area follows the recommended Linking You "Cool URI". However, where a column is not highlighted it does not indicate a problem with the URI. In many cases different URIs exist for historical or local reasons and &mdash; whilst not what would be recommended for maximum cross-institution compatibility &mdash; are entirely valid.</p>
+		<p>Where a column has green highlights they indicate that the URI for that area follows the recommended Linking You "Cool URI". However, where a column is not highlighted it does not indicate a problem with the URI. In many cases different URIs exist for historical or local reasons and &mdash; while not what we'd recommend for maximum cross-institution compatibility &mdash; are entirely valid.</p>
 		
 		<h2>Everyone Is Different</h2>
 		
 		<p>
-			As this is the first study of it's kind into higher educational institution website URI structures, and there are currently no recommendations out there, we weren't expecting little correlation between the websites and to some extent this is the case.
+			As this is the first study of its kind into higher educational institution website URI structures, and there are no pre-existing recommendations, we were expecting little correlation between the websites and this mostly is the case.
 		</p>
 		
 		<p>
