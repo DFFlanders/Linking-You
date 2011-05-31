@@ -174,6 +174,18 @@
 		
 		<p>Linked data itself doesn't have to be housed separately from an institution's primary web presence, indeed in many cases it would be preferable to reduce duplication by providing a single easily referenced point from which to access a resource.</p>
 	
-	</div> 
+	</div>
+	
+	<div class="box bg_light">
+	
+		<h2>Get The Poster</h2>
+		
+		<p><a href="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster.png"><img src="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster_300px.png" style="width:100%" title="Linking You Poster"></a></p>
+		
+		<p>As part of the project we've produced a poster with our recommended URI structure and some handy notes, great for decorating any large, conveniently empty wall.</p>
+		
+		<p>Want a print-ready PDF file? <a href="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster.pdf">Grab it from our source repository</a>.</p>
+	
+	</div>
 
 </aside>
