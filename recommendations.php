@@ -12,7 +12,7 @@
 	
 	<ul>
 		<li>Drive research into the effective design and development of university websites</li>
-		<li>Provide support to teachers and students for Utopian thinking and experimentation</li> 
+		<li>Provide support to teachers and students for Utopian thinking and experimentation on the web</li> 
 		<li>Include students as clients and collaborators in the design of university websites</li>
 		<li>Be academically credible. Web development should not simply be a technical exercise removed from the academic rigour of the university</li>
 		<li>Understand the relationship between space and time: it's not just 'cyber<em>space</em>', but space-time</li>

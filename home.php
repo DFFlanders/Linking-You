@@ -12,7 +12,7 @@
 		
 	<dl>
 		<dt><a href="http://lncn.eu/toolkit/spacetime">Space-time</a></dt>
-			<dd>Mapping the notion of resource identifiers to the physical world of space and time.</dd>
+			<dd>Mapping the notion of resource identifiers to the physical world of space-time.</dd>
 		<dt><a href="http://lncn.eu/toolkit/recommendations">Recommendations</a></dt>
 			<dd>A summary of our findings and recommendations for excellent identifier design.</dd>
 		<dt><a href="http://lncn.eu/toolkit/101">URI 101</a></dt>
