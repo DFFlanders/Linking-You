@@ -2,9 +2,9 @@
 		
 	<h1>Data Model</h1>
 	
-	<p>This is the HEI URI model which we are recommending to the sector as a result of our analysis of existing institutional website structures and also our own opinions on URI structure.</p>
+	<p>This is the HEI URI model we are recommending to the sector as a result of our analysis of existing institutional website structures and also our own opinions on URI structure.</p>
 	
-	<p>As developers we are used to the concept of objects and key/values and so this has reflected on the model's structure. We've gone for namespaced type/identifier object nodes, such as <span class="cleanuri">/event/openday/{identifier}</span>, <span class="cleanuri">/about/campuses/{identifier}</span>, and <span class="cleanuri">/academic_departments/{identifier}/courses</span>.</p>
+	<p>As developers we are used to the concept of objects and key/values and this is reflected in the model's structure. We've gone for namespaced type/identifier object nodes, such as <span class="cleanuri">/event/openday/{identifier}</span>, <span class="cleanuri">/about/campuses/{identifier}</span>, and <span class="cleanuri">/academic_departments/{identifier}/courses</span>.</p>
 	
 	<p>The only contention we had on the model was whether or not to have courses as a top level object, or have them as a sub-object of student type (undergraduate/postgraduate/foundation). In the end we went with sub-objects as this seems to be a standard that other HEIs have agreed on because postgraduate courses are structured and administered in a different way to undergraduate courses.
 	</p>
@@ -169,9 +169,9 @@
 			<cite><a href="http://linkeddata.org/">linkeddata.org</a></cite>
 		</blockquote>
 				
-		<p>Within the higher education sphere there is a slow movement towards <a href="http://data-ac-uk.ecs.soton.ac.uk/">providing linked data</a> for an institution. A key part of this is understanding both what data is available, and how to present it in such a way that it's easily linked to the rest of the content on the Internet.</p>
+		<p>Within the higher education sector there is a gradual movement towards <a href="http://data-ac-uk.ecs.soton.ac.uk/">providing linked data</a> for an institution. A key part of this is understanding both what data is available, and how to present it in such a way that it's easily linked to the rest of the content on the Internet.</p>
 		
-		<p>Linked data itself doesn't have to be housed separately from an institution's primary web presence, indeed in many cases it would be preferable to reduce duplication by providing a single easily referenced point from which to access a resource.</p>
+		<p>Linked data itself doesn't have to be housed separately from an institution's primary web presence, indeed in many cases it would be preferable to reduce duplication by providing a single, easily referenced point from which to access a resource.</p>
 	
 	</div>
 	
@@ -181,7 +181,7 @@
 		
 		<p><a href="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster.png"><img src="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster_300px.png" style="width:100%" title="Linking You Poster"></a></p>
 		
-		<p>As part of the project we've produced a poster with our recommended URI structure and some handy notes, great for decorating any large, conveniently empty wall.</p>
+		<p>As part of the project we've produced a poster with our recommended URI structure and some handy notes; great for decorating any large, conveniently empty wall.</p>
 		
 		<p>Want a print-ready PDF file? <a href="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster.pdf">Grab it from our source repository</a>.</p>
 	
