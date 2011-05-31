@@ -6,7 +6,7 @@
 	
 	<p>As developers we are used to the concept of objects and key/values and this is reflected in the model's structure. We've gone for namespaced type/identifier object nodes, such as <span class="cleanuri">/event/openday/{identifier}</span>, <span class="cleanuri">/about/campuses/{identifier}</span>, and <span class="cleanuri">/academic_departments/{identifier}/courses</span>.</p>
 	
-	<p>The only contention we had on the model was whether or not to have courses as a top level object, or have them as a sub-object of student type (undergraduate/postgraduate/foundation). In the end we went with sub-objects as this seems to be a standard that other HEIs have agreed on because postgraduate courses are structured and administered in a different way to undergraduate courses.
+	<p>The only contention we had on the model was whether or not to have courses as a top level object, or have them as a sub-object of student type (undergraduate/postgraduate/foundation). In the end we went with sub-objects as this seems to be a standard that other HEIs have agreed on because postgraduate courses are structured and administered in a different way to undergraduate courses. Despite this individual courses should still always be forwarded to the <span class="cleanuri">/course/{id}</span> resource, as a course in itself has no undergraduate or postgraduate status outside of the institution's own administrative structure.
 	</p>
 	
 	<p class="cleanuri">yourdomain.ac.uk</p>
@@ -135,7 +135,7 @@
 		</li>
 	</ul>
 		
-	<!--<h2>Discuss This</h2>
+	<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -154,7 +154,7 @@
 	    }</span>)();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>
 	
 </article> 
 
@@ -171,7 +171,11 @@
 				
 		<p>Within the higher education sector there is a gradual movement towards <a href="http://data-ac-uk.ecs.soton.ac.uk/">providing linked data</a> for an institution. A key part of this is understanding both what data is available, and how to present it in such a way that it's easily linked to the rest of the content on the Internet.</p>
 		
-		<p>Linked data itself doesn't have to be housed separately from an institution's primary web presence, indeed in many cases it would be preferable to reduce duplication by providing a single, easily referenced point from which to access a resource.</p>
+		<p>Linked data itself doesn't have to be housed separately from an institution's primary web presence, indeed in many cases it would be preferable to reduce duplication by providing a single, easily referenced point from which to access a resource. For this reason we've designed our recommended data model to represent a University's resources in a manner similar to linked data resources across the web.</p>
+		
+		<h3>Unlock Data's Potential</h3>
+		
+		<p>To help unlock the potential of all your institution's data we <em>strongly recommend</em> that wherever possible you include machine readable alternatives. These should be located at the same resource name as the 'normal' resource, but suffixed with a machine readable format name. For example, <span class="uri">/courses</span> could (and indeed should) be expressed as <a href="http://www.w3.org/XML/">XML</a> at <span class="uri">/courses.xml</span>, <a href="http://www.json.org/">JSON</a> at <span class="uri">/courses.json</span> and <a href="http://www.xcri.org/">XCRI</a> at <span class="uri">/courses.xcri</span>.</p>
 	
 	</div>
 	
