@@ -62,6 +62,7 @@
 	        <li<?php if ($page == 'model') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/model">Data Model</a></li>
 	        <li<?php if ($page == 'recommendations') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/recommendations">Recommendations</a></li>
 	        <li<?php if ($page == 'glossary') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/glossary">Glossary</a></li>
+	        <li><a href="http://linkingyou.blogs.lincoln.ac.uk/">Blog</a></li>
     	</ul>  
 	</nav> 
 	
