@@ -139,12 +139,13 @@
 
 		<h2>Key documents</h2>
 
+		<p><a href="http://tools.ietf.org/html/rfc2616">Hypertext Transfer Protocol -- HTTP/1.1</a></p>
+		<p><a href="http://www.w3.org/TR/cooluris/">Cool URIs for the Semantic Web</a></p> 
+		<p><a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></p>		
+		<p><a href="http://tools.ietf.org/html/rfc3986">Uniform Resource Identifier (URI): Generic Syntax</a></p>		
 		<p><a href="http://www.w3.org/2001/tag/doc/selfDescribingDocuments-2008-12-03.html">The Self-Describing Web</a></p> 
 		<p><a href="http://www.w3.org/TR/webarch/">Architecture of the World Wide Web, Volume One</a></p> 
-		<p><a href="http://tools.ietf.org/html/rfc3986">Uniform Resource Identifier (URI): Generic Syntax</a></p> 
-		<p><a href="http://www.w3.org/TR/cooluris/">Cool URIs for the Semantic Web</a></p> 
-		<p><a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></p> 
-		<p><a href="http://tools.ietf.org/html/rfc2616">Hypertext Transfer Protocol -- HTTP/1.1</a></p> 
+		  
 	</div>
 
 </aside>
