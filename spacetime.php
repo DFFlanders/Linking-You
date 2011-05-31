@@ -26,11 +26,12 @@
 
 <blockquote>And now the campus is massive, one of those dominant modern environments of multi-functionality that modern man creates: close it down as a university…and you could open it again as a factory, a prison, a shopping precinct.
 	<cite>Malcolm Bradbury, <a href="http://books.google.co.uk/books?id=C1fqVSTHTHAC">The History Man</a>, 1975, 69</cite>
-	</blockquote>
+</blockquote>
 
 
-<blockquote>The logic of digital technology leads us in a new direction. Objects, as well as ideas, are no longer fixed, no longer tangible. In cyberspace, there is no weight, no dimensions; structure is dynamic and changing; size is both infinite and immaterial. In this space, stories are written that change with each new reader; new material can be added, and old material can be deleted. Nothing is permanent. <cite>Kleinman, <em><a href="http://books.google.com/books?id=7P9oAAAAIAAJ">Don't Fence Me In: Copyright, Property and Technology</a></em>, 1996, 76</cite>
-	</blockquote>
+<blockquote>The logic of digital technology leads us in a new direction. Objects, as well as ideas, are no longer fixed, no longer tangible. In cyberspace, there is no weight, no dimensions; structure is dynamic and changing; size is both infinite and immaterial. In this space, stories are written that change with each new reader; new material can be added, and old material can be deleted. Nothing is permanent. 
+	<cite>Kleinman, <a href="http://books.google.com/books?id=7P9oAAAAIAAJ">Don't Fence Me In: Copyright, Property and Technology</a>, 1996, 76</cite>
+</blockquote>
 </div>
 </div>
 </div>
