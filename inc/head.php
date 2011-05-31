@@ -30,6 +30,9 @@
 	.uri:before {
 		content: ".ac.uk";
 	}
+	.uri_replace {
+		color: green;
+	}
 	</style> 
 	
 </head> 
