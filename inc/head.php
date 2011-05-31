@@ -55,7 +55,7 @@
 	<nav class="cwd_container" role="navigation"> 
 		<ul id="cwd_navigation" class="grid_12">  
 			<li<?php if ($page == 'about') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit">About The Toolkit</a></li>
-			<li<?php if ($page == 'thinking') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/thinking">Thinking</a></li>
+			<li<?php if ($page == 'spacetime') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/spacetime">Space-time</a></li>
 			<li<?php if ($page == '101') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/101">URI 101</a></li>
 			<li<?php if ($page == 'domains') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/domains">Domains</a></li>
 			<li<?php if ($page == 'institution') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/institution">Institutional URIs</a></li>
