@@ -35,6 +35,10 @@
 	.redirect_highlight{
 		font-weight: bold;
 	}
+	
+	.bg_light blockquote {
+		border-left-color: #bbb;
+	}
 	</style> 
 	
 </head> 
