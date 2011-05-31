@@ -123,7 +123,6 @@
 		
 		<p>Uncool URIs are commonly found on sites using legacy or badly configured CMS systems, where a page may be represented by a seemingly random identifier such as <span class="uri">/index.asp?content=64927</span>. There are many technical methods for dealing with uncool URIs and transitioning to the recommended cool alternatives. Linking You recommends the use of HTTP 3xx status codes &mdash; such as HTTP 301 Moved Permanently &mdash; as these deal seamlessly with users using the old URI, as well as keeping search engine rankings mostly unaffected.</p>
 		
-		<p>There are two key documents for learning more about Cool URIs: <a href="http://www.w3.org/TR/cooluris/">Cool URIs for the Semantic Web</a> and <a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a>.</p>
 	
 	</div> 
 
