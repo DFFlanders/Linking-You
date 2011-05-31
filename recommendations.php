@@ -1,5 +1,7 @@
 <article class="grid_8">
 
+	<h1>Recommendations</h1>
+
 	<p>In this toolkit, we have argued for clear, consistent, readable and accessible URIs: <em>Cool URIs</em>. Cool URIs don't necessarily assume that the resource being represented is fixed, stable or permanent, only that the URI persists, identifying a resource (or more likely a collection of resources) that we acknowledge may change <a href="http://www.ltg.ed.ac.uk/~ht/WhatAreURIs/">like the weather</a>.</p> 
 	
 	<p>By proposing our ideal model, we are not expecting each institution to redesign the content of their websites, but rather we have highlighted where the institutions in our study could redesign and remap an improved underlying URI structure. <strong>This is an important distinction:</strong> the design of an institutional URI structure has little (increasingly so) to do with the resources as are they are presented to users in their web browsers. <strong>Website design is not the issue here. URI design is.</strong> Although we are <a href="http://lncn.eu/toolkit/thinking">calling</a> for a much more imaginative, experimental and ambitious use of the .ac.uk domain, if planed well, work on institutional URI structures could take place without anyone actually noticing thanks to <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.3">HTTP 3xx status codes</a>. This alone would improve the opportunities for data aggregation and re-use and the development of services built on simple APIs.</p>
@@ -8,16 +10,18 @@
 	
 	<p>The Learning Landscapes project asserted that the three fundamental qualities of good design are efficiency, effectiveness and expression. These are communicative attributes, describing an ideal space that is shaped by a number of recommended principles that are broadly applicable to cyberspace, too. When thinking of university cyberspace for the Linking You project, those principles on page 46-7 of the <a href="http://learninglandscapes.blogs.lincoln.ac.uk/files/2010/04/FinalReport.pdf">Learning Landscapes Final Report</a> maybe reformulated as:</p>
 	
-	<ul><li>Drive research into the effective design and development of university websites</li>
-	<li>Provide support to teachers and students for Utopian thinking and experimentation</li> 
-	<li>Include students as clients and collaborators in the design of university websites</li>
-	<li>Be academically credible. Web development should not simply be a technical exercise removed from the academic rigour of the university</li>
-	<li>Understand the relationship between space and time: it's not just 'cyber<em>space</em>', but space-time</li>
-	<li>Articulate the institution's vision and mission as a connected, networked whole</li>
-	<li>Create incentives. Recognise and reward innovation across all staff and students</li>
-	<li>Create formal and informal management structures that support strategic experimentation and imagineering (e.g. 'think tanks', 'sand pits', 'skunk works')</li>
-	<li>Avoid stereotyping. Bring people together from across subject areas and professions so as to avoid an 'us and them' attitude</li> 
-	<li>Intellectualise the issues. Generate debate on the nature of academic values and the role and purpose of higher education: the idea of the university is synonymous with the idea of .ac.uk</li></ul>
+	<ul>
+		<li>Drive research into the effective design and development of university websites</li>
+		<li>Provide support to teachers and students for Utopian thinking and experimentation</li> 
+		<li>Include students as clients and collaborators in the design of university websites</li>
+		<li>Be academically credible. Web development should not simply be a technical exercise removed from the academic rigour of the university</li>
+		<li>Understand the relationship between space and time: it's not just 'cyber<em>space</em>', but space-time</li>
+		<li>Articulate the institution's vision and mission as a connected, networked whole</li>
+		<li>Create incentives. Recognise and reward innovation across all staff and students</li>
+		<li>Create formal and informal management structures that support strategic experimentation and imagineering (e.g. 'think tanks', 'sand pits', 'skunk works')</li>
+		<li>Avoid stereotyping. Bring people together from across subject areas and professions so as to avoid an 'us and them' attitude</li> 
+		<li>Intellectualise the issues. Generate debate on the nature of academic values and the role and purpose of higher education: the idea of the university is synonymous with the idea of .ac.uk</li>
+	</ul>
 	
 	<p>In essence, much of this could be broadly understood as 'digital literacy', where the learning landscape is designed to engender capable, confident and critical individuals engaged in research, teaching and learning, so that they are active producers of their own social world. It feels like the work required to really understand and take advantage of our new university space-time has hardly begun.</p>
 	
@@ -60,7 +64,7 @@
 
 </article>
 
-<div class="grid_4 last">
+<aside class="grid_4 last">
 	<div class="box bg_light">
 		<blockquote>A resource can be anything that has identity.</blockquote>
 		<p><a href="http://tools.ietf.org/html/rfc2396">RFC 2396, Uniform Resource Identifiers (URI): Generic Syntax</a></p>
@@ -68,4 +72,4 @@
 		<blockquote>Think of the URI space as an abstract space, perfectly organized.</blockquote>
 		<p><a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></p>
 	</div>
-</div>
+</aside>
