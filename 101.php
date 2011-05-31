@@ -30,7 +30,7 @@
 
 				<p>While this is always the goal, there are times at which it is very difficult or impossible to accomplish. Canonical URL tags were invented to help reduce the amount of duplicate content seen by a search engine. While not a final solution, canonical URLs are strongly recommended as large search engines like Google are now paying attention to them.</p>
 				
-				<p>URIs should also be permanent (i.e. choose the URI once and leave it at that). This speaks to good URI design before a site is launched, with the URIs being carefully planned. There will come a time when you do want to make improvements to your choices or otherwise must change URI structure. When this becomes a necessity, HTTP 301 moved permanently redirects should be set up. This tells browsers and search engines the new location of the content and will also preserve any Google PageRank (and other SEO rankings) that the old URI has accumulated.</p>
+				<p>URIs should also be permanent (i.e. choose the URI once and leave it at that). This speaks to good URI design before a site is launched, with the URIs being carefully planned. There will come a time when you do want to make improvements to your choices or otherwise must change URI structure. When this becomes a necessity, HTTP 301 moved permanently redirects should be set up. This tells browsers and search engines the new location of the content and will also preserve any Google PageRank (and other search engine rankings) that the old URI has accumulated.</p>
 			</div>
 			
 			<h3><a href="#consistent">Consistent</a></h3>
