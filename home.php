@@ -33,9 +33,9 @@
 	
 	<p>This may seem like an obscure technical project to many people, but we think there will be a number of benefits, both internal and external, in having undertaken this work. We’ve situated this project within the wider context of the <a href="http://learninglandscapes.lincoln.ac.uk">Learning Landscapes</a> project at Lincoln and have tried to think of identifiers as expressing and sign-posting new forms of spatiality. Just as traditional space architects offer easy to understand blueprints so that people can imagine the space, Linking You has offered a blueprint for institutional identifers. We don't expect every institution to adopt the exact same syntax, but we do hope that it leads to a new shared vocabularly for institutional identifiers. The visual representations created during the project will be used at Lincoln to communicate proposed changes to the online research, teaching and learning environment. Furthermore, our work on the project will influence our provision of open data allowing for greater re-use and personalisation of information for students and staff. We hope the Toolkit provides similar benefits to you, too.</p>
 
-	<p>Although URIs are <a href="http://linkingyou.blogs.lincoln.ac.uk/2011/04/18/the-evolution-of-the-address-bar/">increasingly being obfuscated</a> by developments in browser design, they are also increasingly being integrated in browser search functionality such that the benefits of providing clear, plain language URIs has never been greater. As well as providing benefits to your website visitors (and your SEO), technical staff at your university should benefit from a consistent approach to URIs so that it is significantly easier for them to manage the relationships between resources, as well as making it simpler to produce documentation which refers to ‘clean’ URIs. Alongside this, your University will be able to implement a more efficient method of redirecting users to their intended destination when a resource has moved.</p>
+	<p>Although URIs are <a href="http://linkingyou.blogs.lincoln.ac.uk/2011/04/18/the-evolution-of-the-address-bar/">increasingly being obfuscated</a> by developments in browser design, they are also increasingly being integrated into browser search functionality such that the benefits of providing clear, plain language URIs has never been greater. As well as providing subtle benefits to your website visitors (and your SEO), technical staff at your university should benefit from a consistent approach to URIs so that it is significantly easier for them to manage the relationships between resources, as well as making it simpler to produce documentation which refers to URIs that <em>make sense</em>. Alongside this, your University will be able to implement an efficient method of redirecting users to their intended destination when a resource has moved.</p>
 
-	<p>Institutions as a whole will benefit from thinking about systematised approach to a logical and human readable URI addressing system for online services. If implemented, they should experience:</p>
+	<p>Institutions as a whole will benefit from thinking about a logical and human readable URI addressing system for online services. If implemented, they should experience:</p>
 	
 	<ul>
 		<li>Better IT systems integration.</li>
@@ -46,7 +46,7 @@
 		<li>Improve discoverability of resources (and SEO)</li>
 	</ul>
 
-	<p>We hope that you will benefit from our project documentation, the comparative work we've done and our data modelling. This is a small project that we hope will offer useful contributions to a wider conversation across the sector.</p>
+	<p>We hope that you'll benefit from our project documentation, the comparative work we've done and our data modelling. Linking You was a small project that we hope will offer useful contributions to a wider conversation across the sector.</p>
 	
 	<h2>Discuss This</h2>
 	
@@ -79,7 +79,7 @@
 		
 		<p><a href="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster.png"><img src="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster_300px.png" style="width:100%" title="Linking You Poster"></a></p>
 		
-		<p>As part of the project we've produced a poster with our recommended URI structure and some handy notes, great for decorating any large, conveniently empty wall.</p>
+		<p>As part of the project we've produced a poster with our recommended URI structure and some handy notes; great for decorating any large, conveniently empty wall.</p>
 		
 		<p>Want a print-ready PDF file? <a href="https://github.com/lincolnonlineservices/Linking-You/raw/master/poster/poster.pdf">Grab it from our source repository</a>.</p>
 	
