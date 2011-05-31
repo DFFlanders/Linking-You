@@ -2,7 +2,13 @@
 		
 	<h1>Data Model</h1>
 	
-	<p>This is our recommended model</p>
+	<p>This is the HEI URI model which we are recommending to the sector as a result of our analysis of existing institutional website structures and also our own opinions on URI structure.</p>
+	
+	<p>As developers we are used to the concept of objects and key/values and so this has reflected on the model's structure. We've gone for namespaced type/identifier object nodes, such as /event/openday/{identifier}, /about/campuses/{identifier}, and /academic_departments/{identifier}/courses.</p>
+	
+	<p>
+		The only contention we had on the model was whether or not to have courses as a top level object, or have them as a sub-object of student type (undergraduate/postgraduate/foundation). In the end we went with sub-objects as this seems to be a standard that other HEIs have agreed on because postgraduate courses are structured and administered in a different way to undergraduate courses.
+	</p>
 	
 	<p class="cleanuri">yourdomain.ac.uk</p>
 	
@@ -159,10 +165,11 @@
 	
 		<h2>Linked Data?</h2> 
 		
-		<blockquote cite="http://linkeddata.org/">Linked Data is about using the Web to connect related data that wasn't previously linked, or using the Web to lower the barriers to linking data currently linked using other methods.</blockquote>
-		
-		<p style="text-align:right;" class="small"><a href="http://linkeddata.org/">linkeddata.org</a></p>
-		
+		<blockquote cite="http://linkeddata.org/">
+			Linked Data is about using the Web to connect related data that wasn't previously linked, or using the Web to lower the barriers to linking data currently linked using other methods.
+			<cite><a href="http://linkeddata.org/">linkeddata.org</a></cite>
+		</blockquote>
+				
 		<p>Within the higher education sphere there is a slow movement towards <a href="http://data-ac-uk.ecs.soton.ac.uk/">providing linked data</a> for an institution. A key part of this is understanding both what data is available, and how to present it in such a way that it's easily linked to the rest of the content on the Internet.</p>
 		
 		<p>Linked data itself doesn't have to be housed separately from an institution's primary web presence, indeed in many cases it would be preferable to reduce duplication by providing a single easily referenced point from which to access a resource.</p>
