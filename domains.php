@@ -18,7 +18,7 @@
 	
 		<p>It may be tempting to create subdomains with long-winded descriptions, internal acronyms, codenames or similar. This should be avoided wherever possible; if you've got a service which allows people to top up their printing credit try to give it a domain such as <span class="cleanuri">print.</span> or <span class="cleanuri">topup.</span>, rather than <span class="cleanuri">topupmyprintaccount.</span> or <span class="cleanuri">onlinemoneyloader.</span>. The shorter domains are far easier to remember, and vastly more intuitive.</p>
 	
-	<!--<h2>Discuss This</h2>
+	<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -37,6 +37,6 @@
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>
 	
 </article>
