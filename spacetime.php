@@ -15,6 +15,28 @@
 	<p>Is it any surprise that institutional URI schemes so closely reflect the idea of the university that has developed since the medieval period? If, as Malcolm Bradbury wrote in the 1970s, the modern campus is so lacking distinction that it could just as easily serve as a prison, factory or shopping precinct, are our institutional websites condemned to the same indeterminate features? If the idea of the university is in danger of being lost, can it be re-asserted through the new spatially of the Internet, which feels like an exponential "annihilation of space by time", (<a href="http://www.marxists.org/archive/marx/works/1857/grundrisse/ch10.htm">Marx, Grundrisse Ch. 10</a>) when the economy of <em>land</em>, so ingrained in our conception of the world, seems barely relevant to the architecture of the web, but reveals itself continually in debates around Intellectual Property and copyright. No wonder that the avant-garde of web architecture is the 'open web', the 'web of data', whose proponents in just the past couple of years have increasingly argued for public domain licensing (e.g. <a href="http://creativecommons.org/choose/zero/">CC0</a>, <a href="http://www.opendatacommons.org/licenses/pddl/">PDDL</a>) and the effective abandonment of property as the organising principle of the web.</p> 
 	
 	<p>This new space - cyberspace - allows for a new science of space, a <em>spatiology</em> that allows us to think critically and imaginatively about the idea and form of university we desire. We discussed this in the Learning Landscapes project, highlighting how critical pedagogy can be used as a design principle, a resource in the design and construction of a counter-space, providing critical tools with which we reverse imagineer the university. Cyberspace allows for 'Utopian thinking' through which the constraints of property rights, and the traditional hierarchies of research, teaching and learning become "manifest as entirely different spatial forms and temporal rhythms." (Harvey, <a href="http://books.google.co.uk/books?id=W00VHZg3u2MC">Space of Hope</a>, 2000, 237-8) Arguably, we're already seeing this Utopian thinking in the forms of the Open Data, Open Access and Open Education movements. This was recognised two years ago by JISC in the <a href="http://www.jisc.ac.uk/events/2009/06/demoslaunch.aspx">Edgeless University</a> report and it's time that the foresight of these critical movements shifts into the mainstream and their Utopianism infects the whole of .ac.uk. How do we begin to do it? Read our <a href="http://lncn.eu/toolkit/recommendations">recommendations</a>.</p>
+	
+	<h2>Discuss This</h2>
+	
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+	    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+	    var disqus_shortname = 'lncneukit'; // required: replace example with your forum shortname
+	
+	    // The following are highly recommended additional parameters. Remove the slashes in front to use.
+	    var disqus_identifier = 'spacetime';
+	    var disqus_url = 'http://lncn.eu/toolkit/spacetime';
+	
+	    /* * * DON'T EDIT BELOW THIS LINE * * */
+	    (function() {
+	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>
+	
 </article>
 
 
