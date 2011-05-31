@@ -1,4 +1,4 @@
-<div class="grid_12"> 
+<article class="grid_12"> 
 		
 	<h1>Domains</h1>
 	
@@ -14,7 +14,7 @@
 		
 		<p>Making the <span class="cleanuri">www.</span> optional has many benefits, including faster reading of the web address (it has ten fewer syllables), requiring less space on printed or advertising material, removing redundancy and making the address easier to type (in the case of short root domains such as <span class="cleanuri">ox.ac.uk</span> adding the <span class="cleanuri">www.</span> makes the address a whole 50% longer).</p>
 	
-	<h2>Discuss This</h2>
+	<!--<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -33,6 +33,6 @@
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
 	
-</div>
+</article>
