@@ -22,11 +22,20 @@
 	
 	<div class="box">
 
-		<blockquote>“What, design a URI? I have to design URIs? Yes, you have to think about it.” <a href="http://www.w3.org/Provider/Style/URI">Berners-Lee 1998 W3C Style. Cool URIs don’t change.</a></blockquote>
+		<blockquote>
+			"What, design a URI? I have to design URIs? Yes, you have to think about it."
+			<cite><a href="http://www.w3.org/Provider/Style/URI">Berners-Lee 1998 W3C Style. Cool URIs don’t change.</a></cite>
+		</blockquote>
 
-		<blockquote>And now the campus is massive, one of those dominant modern environments of multi-functionality that modern man creates: close it down as a university…and you could open it again as a factory, a prison, a shopping precinct. (Malcolm Bradbury, The History Man 1975, 69)</blockquote>
+		<blockquote>
+			And now the campus is massive, one of those dominant modern environments of multi-functionality that modern man creates: close it down as a university…and you could open it again as a factory, a prison, a shopping precinct.
+			<cite>Malcolm Bradbury, The History Man 1975, 69</cite>
+		</blockquote>
 
-		<blockquote>The logic of digital technology leads us in a new direction. Objects, as well as ideas, are no longer fixed, no longer tangible. In cyberspace, there is no weight, no dimensions; structure is dynamic and changing; size is both infinite and immaterial. In this space, stories are written that change with each new reader; new material can be added, and old material can be deleted. Nothing is permanent. <em>Don’t Fence Me In: Copyright, Property and Technology</em>, Kleinman (<a href="http://books.google.com/books?id=7P9oAAAAIAAJ">1996, 76</a>)
+		<blockquote>
+			The logic of digital technology leads us in a new direction. Objects, as well as ideas, are no longer fixed, no longer tangible. In cyberspace, there is no weight, no dimensions; structure is dynamic and changing; size is both infinite and immaterial. In this space, stories are written that change with each new reader; new material can be added, and old material can be deleted. Nothing is permanent. 
+			
+			<cite>Don’t Fence Me In: Copyright, Property and Technology, Kleinman (<a href="http://books.google.com/books?id=7P9oAAAAIAAJ">1996, 76</a>)</cite>
 		</blockqoute>
 	
 	</div>
