@@ -23,7 +23,6 @@
 	
 	<style> 
 	#cwd_header { background: url('http://lncn.eu/img/toolkit.jpg') center; }
-	.todo { font-weight: bold; color: red; }
 	.uri, .cleanuri {
 		font-family: Courier, monospace;
 	}
@@ -67,7 +66,6 @@
 			<li<?php if ($page == 'domains') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/domains">Domains</a></li>
 			<li<?php if ($page == 'institution') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/institution">Institutional URIs</a></li>
 	        <li<?php if ($page == 'model') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/model">Data Model</a></li>
-	        <li<?php if ($page == 'glossary') echo ' class="current"'; ?>><a href="http://lncn.eu/toolkit/glossary">Glossary</a></li>
 	        <li><a href="http://linkingyou.blogs.lincoln.ac.uk/">Blog</a></li>
     	</ul>  
 	</nav> 
