@@ -13,10 +13,10 @@
 <li>Include students as clients and collaborators in the design of university websites</li>
 <li>Be academically credible. Web development should not simply be a technical exercise removed from the academic rigour of the university</li>
 <li>Understand the importance of time: it's not just "cyberspace", but space-time</li>
-<li>Articulate the institution’s vision and mission as a connected, networked whole</li>
+<li>Articulate the institution's vision and mission as a connected, networked whole</li>
 <li>Create incentives. Recognise and reward innovation across all staff and students</li>
 <li>Create formal and informal management structures that support strategic experimentation and imagineering (e.g. "think tanks", "sand pits", "skunk works")</li>
-<li>Avoid stereotyping. Bring people together from across subject areas and professions so as to avoid an ‘us and them’ attitude</li> 
+<li>Avoid stereotyping. Bring people together from across subject areas and professions so as to avoid an "us and them" attitude</li> 
 <li>Intellectualise the issues. Generate debate on the nature of academic values and the role and purpose of higher education: the idea of the university is synonymous with the idea of .ac.uk</li></ul>
 
 <p>In essence, much of this could be considered "digital literacy", where the learning landscape is designed to engender capable, confident and critical individuals engaged in research, teaching and learning, so that they are active producers of their own social world. It feels like the work required to really understand and take advantage of our new university space-time has hardly begun.</p>
