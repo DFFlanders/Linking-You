@@ -9,12 +9,7 @@
 	<p>The Linking You Toolkit is a collection of the outcomes of this project, and is intended as a starting point for institutions looking to better understand and manage their use of identifiers on their .ac.uk website.</p>	
 
 	<h2>What does this Toolkit look at?</h2>
-	
-	<dl>
-		<dt><a href="http://lncn.eu/toolkit/spacetime">Space-time</a></dt>
-			<dd>Thinking about the learning landscape.</dd>
-	<p>This toolkit looks at 7 specific areas, from which you can mix and match recommendations depending on what you're trying to achieve.</p>
-	
+		
 	<dl>
 		<dt><a href="http://lncn.eu/toolkit/spacetime">Space-time</a></dt>
 			<dd>Mapping the notion of resource identifiers to the physical world of space and time.</dd>
