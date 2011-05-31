@@ -13,8 +13,12 @@
 		<p>Linking You recommends that websites at least support accessing them without the <span class="cleanuri">www.</span> prefix. You can find arguments for this approach, as well as necessary code snippets, at the <a href="http://no-www.org/">no-www campaign</a>. The transition to supporting a domain both with and without the prefix is technically very simple, and does not require any significant amount of work.</p>
 		
 		<p>Making the <span class="cleanuri">www.</span> optional has many benefits, including faster reading of the web address (it has ten fewer syllables), requiring less space on printed or advertising material, removing redundancy and making the address easier to type (in the case of short root domains such as <span class="cleanuri">ox.ac.uk</span> adding the <span class="cleanuri">www.</span> makes the address a whole 50% longer).</p>
+		
+	<h2>Avoid Mystery Subdomains</h2>
 	
-	<!--<h2>Discuss This</h2>
+		<p>It may be tempting to create subdomains with long-winded descriptions, internal acronyms, codenames or similar. This should be avoided wherever possible; if you've got a service which allows people to top up their printing credit try to give it a domain such as <span class="cleanuri">print.</span> or <span class="cleanuri">topup.</span>, rather than <span class="cleanuri">topupmyprintaccount.</span> or <span class="cleanuri">onlinemoneyloader.</span>. The shorter domains are far easier to remember, and vastly more intuitive.</p>
+	
+	<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -33,6 +37,6 @@
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>
 	
 </article>
