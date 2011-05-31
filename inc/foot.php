@@ -31,7 +31,7 @@
 	
 	<script type="text/javascript">
 		$(function() {
-			$('.accordion_me').accordion();
+			$('.accordion_me').accordion({ autoHeight: false });
 		});
 	</script>
 	

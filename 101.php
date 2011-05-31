@@ -23,18 +23,63 @@
 	<div class="margin_top">
 		
 		<div class="accordion_me">
-			
-			<h3><a href="#test">Test</a></h3>
-			<div id="test">
-			
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			
+		
+			<h3><a href="#persistent">Persistent and Permanent</a></h3>
+			<div id="persistent">
+				<p>One of the most fundamental philosophies behind a URI is that it represents a data object on the Internet. The URI must be unique so that it is a one-to-one match - one URI per one data object.</p>
+
+				<p>While this is always the goal, there are times at which it is very difficult or impossible to accomplish. Canonical URL tags were invented to help reduce the amount of duplicate content seen by a search engine. While not a final solution, canonical URLs are strongly recommended as large search engines like Google are now paying attention to them.</p>
+				
+				<p>URIs should also be permanent (i.e. choose the URI once and leave it at that). This speaks to good URI design before a site is launched, with the URIs being carefully planned. There will come a time when you do want to make improvements to your choices or otherwise must change URI structure. When this becomes a necessity, HTTP 301 moved permanently redirects should be set up. This tells browsers and search engines the new location of the content and will also preserve any Google PageRank (and other SEO rankings) that the old URI has accumulated.</p>
 			</div>
 			
-			<h3><a href="#test2">Test</a></h3>
-			<div id="test2">
+			<h3><a href="#consistent">Consistent</a></h3>
+			<div id="consistent">
+				<p>URIs across a site must be consistent in format. Once you pick your URI structure, be consistent and follow it! Having good URI structure for part of the site means that you still have poor structure overall. In order for a user to trust that URIs work a certain way on a site, the format must be consistent. If you must switch structure (maybe you’re updating a poorly-designed site), use 301 redirects as previously mentioned.</p>
+			</div>
 			
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			
+			
+			<h3><a href="#readability">Readability</a></h3>
+			<div id="readability">
+			
+				<p>A URI can technically be used purely as a 'click to' point on the internet. There’s nothing stopping a HEI website putting a page on courses in the School of Computing at http://example.ac.uk/bcwi83b. You plug it into a link, people click the link and off you go. Technically this is sound, but only in the same sense that you can technically address a letter to something like "10, SW1A 2AA". Yes it’s compact and yes it works, but it conveys absolutely nothing in terms of context. It’s also a real pain to remember, and requires you to use additional bits of your brain if you’re ever writing it down for later reference or typing it into a browser address bar.
+				</p>
+
+				<p>Imagine for a second that a prospectus had the following:<p>
+
+    			<blockquote>Find out more about Computing at http://example.ac.uk/bcwi83b</blockquote>
+
+				<p>And then compare it with a ‘human’ address:</p>
+
+   				<blockquote>Find out more about Computing at http://example.ac.uk/school/computing</blockquote>
+
+				<p>Now, try to remember the first one without looking at it.</p>
+				
+				<p>Whatever method you use to create your website, it must be able to generate human readable URIs. Increasingly web browsers are allowing people to search through their history based on URI fragments, meaning that whilst a URI such as "example.ac.uk/computing" will be easily found, "institution.ac.uk/_depts/cs" won’t be. Even worse would be the style of URI which is often created by an incorrectly configured CMS, such as "insitution.ac.uk/content/027463".</p>
+							
+			</div>
+			
+			<h3><a href="#hashbang">Hashbangs are bad, pushState are good</a></h3>
+			<div id="hashbang">
+			
+				<p>A number of websites, including Twitter and Gawker Media (Lifehacker, Gizmodo, etc) have recently re-architected their websites to make use of hashbang URIs &mdash; e.g. https://twitter.com/!#/unilincoln. <a href="http://code.google.com/web/ajaxcrawling/docs/getting-started.html">The hashbang was recommended by Google</a> as a way for search engines to crawl AJAX powered websites.</p>
+				
+				<p>There are a number of problems with hashbangs:</p>
+				
+				<ul>
+					<li>In order to decide which content to render based on a hashbang URI, a hashbang enabled website relies on a user having a modern JavaScript enabled web browser.</li>
+					<li>Hashbangs are invisible to the server, so if someone visits http://example.ac.uk/!#/badurl (which triggers a 404), the error will not appear in your server logs.</li>
+					<li>Hashbangs are forever, so if you go hashbang you can't go back. You can control the links on your website, however you can't control other people's links to your website. If people start linking to your hashbanged URIs then you're going to have to support the parsing of hashbangs even if you implement "fixed" URIs again.</li>
+				</ul>
+				
+				<p>
+					If you want to be all modern and exciting you should make use of the new <a href="https://developer.mozilla.org/en/DOM/Manipulating_the_browser_history">pushState</a> JavaScript features being introduced in the latest versions of browsers.
+				</p>
+				
+				<p>
+					For example, if you you want to move from http://example.ac.uk/undergraduate to http://example.com/undergraduate/courses you'd provide a link, which when clicked, would AJAX load in the content from the other page and update the URI in the navigation bar, or for a user with an older browser it would just load the other page as normal.
+				</p>
 			
 			</div>
 			
