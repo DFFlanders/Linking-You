@@ -23,7 +23,6 @@
 	
 	<style> 
 	#cwd_header { background: url('http://lncn.eu/img/toolkit.jpg') center; }
-	.todo { font-weight: bold; color: red; }
 	.uri, .cleanuri {
 		font-family: Courier, monospace;
 	}

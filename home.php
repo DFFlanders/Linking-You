@@ -10,11 +10,11 @@
 
 	<h2>What does this Toolkit look at?</h2>
 	
-	<p>This toolkit looks at <span class="todo">n</span> specific areas, from which you can mix and match recommendations depending on what you're trying to achieve.</p>
+	<p>This toolkit looks at 7 specific areas, from which you can mix and match recommendations depending on what you're trying to achieve.</p>
 	
 	<dl>
 		<dt><a href="http://lncn.eu/toolkit/spacetime">Space-time</a></dt>
-			<dd>Lorem ipsum...</dd>
+			<dd>Mapping the notion of resource identifiers to the physical world of space and time.</dd>
 		<dt><a href="http://lncn.eu/toolkit/recommendations">Recommendations</a></dt>
 			<dd>A summary of our findings and recommendations for excellent identifier design.</dd>
 		<dt><a href="http://lncn.eu/toolkit/101">URI 101</a></dt>
@@ -27,8 +27,6 @@
 			<dd>Our source data and findings on how institutions currently arrange their identifiers.</dd>
 		<dt><a href="http://lncn.eu/toolkit/model">Data Model</a></dt>
 			<dd>Our recommended URI structure, with a look at how it fits into Linked Data.</dd>
-		<dt><a href="http://lncn.eu/toolkit/glossary">Glossary</a></dt>
-			<dd>A collection of proposed standardised terms for the same (or similar) concepts across institutions.</dd>
 	</dl>
 	
 	<h2>Why is this important?</h2>
@@ -52,7 +50,7 @@
 
 	<p>The university sector will hopefully benefit from our project documentation, data representations and modelling, case studies and prototyping. This is a small project that we hope will offer useful contributions to a wider conversation across the sector.</p>
 	
-	<!--<h2>Discuss This</h2>
+	<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -71,7 +69,7 @@
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>
 	
 </article>
 
