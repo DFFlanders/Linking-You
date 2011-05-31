@@ -31,14 +31,7 @@
 	
 	<script type="text/javascript">
 		$(function() {
-			$( "#modal_institution_survey" ).dialog({
-				modal: true,
-				draggable: false,
-				resizable: false,
-				width: "80%",
-				height: 600,
-				autoOpen: false
-			});
+			$('.accordion_me').accordion();
 		});
 	</script>
 	

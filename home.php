@@ -1,9 +1,13 @@
-<div class="grid_8"> 
+<article class="grid_8"> 
 		
 	<h1>Welcome to the Linking You Toolkit</h1>
 	
-	<p class="todo">About!</p>
+	<h2>About The Project</h2> 
+		
+	<p>Linking You was a project at the University of Lincoln funded by the JISC under the Infrastructure for Education and Research Programme. Its aim was to look at and make recommendations for improving the way that identifiers for .ac.uk domains are planned and managed in higher education institutions.</p>
 	
+	<p>The Linking You Toolkit is a collection of the outcomes of this project, and is intended as a starting point for institutions looking to better understand and manage their use of identifiers on their .ac.uk website.</p>	
+
 	<h2>What does this Toolkit look at?</h2>
 	
 	<p>This toolkit looks at <span class="todo">n</span> specific areas, from which you can mix and match recommendations depending on what you're trying to achieve.</p>
@@ -44,19 +48,9 @@
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
 	
-</div> 
+</article>
 
 <aside class="grid_4 last"> 
-
-	<div class="box bg_light"> 
-	
-		<h2>About The Project</h2> 
-		
-		<p>Linking You was a project at the University of Lincoln funded by the JISC under the Infrastructure for Education and Research Programme. Its aim was to look at and make recommendations for improving the way that identifiers for .ac.uk domains are planned and managed in higher education institutions.</p>
-		
-		<p>The Linking You Toolkit is a collection of the outcomes of this project, and is intended as a starting point for institutions looking to better understand and manage their use of identifiers on their .ac.uk website.</p>
-	
-	</div>
 	
 	<div class="box bg_light">
 	

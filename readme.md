@@ -14,9 +14,9 @@ The Linking You Toolkit is a collection of the outcomes of this project, and is 
 The Team
 --------
 
-* Alex Bilbie
-* Chris Goddard
-* Nick Jackson
-* Tim Simmonds
-* Paul Stainthorp
-* Joss Winn
+* [Alex Bilbie](mailto:abilbie@lincoln.ac.uk)
+* [Chris Goddard](mailto:cgoddard@lincoln.ac.uk)
+* [Nick Jackson](mailto:nijackson@lincoln.ac.uk)
+* [Tim Simmonds](mailto:tsimmonds@lincoln.ac.uk)
+* [Paul Stainthorp](mailto:pstainthorp@lincoln.ac.uk)
+* [Joss Winn](mailto:jwinn@lincoln.ac.uk)

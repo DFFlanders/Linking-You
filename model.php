@@ -1,8 +1,134 @@
-<div class="grid_8"> 
+<article class="grid_8"> 
 		
 	<h1>Data Model</h1>
 	
-	<p>Omnom delicious data</p>
+	<p>This is our recommended model</p>
+	
+	<p class="cleanuri">yourdomain.ac.uk</p>
+	
+	<ul>
+		<li><span class="cleanuri">/{ucas_code}</span> &middot; Replace {ucas_code} with any of your UCAS course codes. Redirect to appropriate /course/{id}.</li>
+		<li><span class="cleanuri">/courses</span></li>
+		<li><span class="cleanuri">/course/{id}</span></li>
+		<li><span class="cleanuri">/undergraduate</span>
+			<ul>
+				<li><span class="cleanuri">/courses</span>
+					<ul>
+						<li><span class="cleanuri">/{id}</span></li>
+						<li><span class="cleanuri">/search/{query}</span></li>
+						<li><span class="cleanuri">/entry_requirements</span></li>
+					</ul>
+				</li>
+				<li><span class="cleanuri">/prospectus</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/postgraduate</span>
+			<ul>
+				<li><span class="cleanuri">/courses</span>
+					<ul>
+						<li><span class="cleanuri">/{id}</span></li>
+						<li><span class="cleanuri">/search/{query}</span></li>
+						<li><span class="cleanuri">/entry_requirements</span></li>
+					</ul>
+				</li>
+				<li><span class="cleanuri">/prospectus</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/foundation</span>
+			<ul>
+				<li><span class="cleanuri">/courses</span>
+					<ul>
+						<li><span class="cleanuri">/{id}</span></li>
+						<li><span class="cleanuri">/entry_requirements</span></li>
+					</ul>
+				</li>
+				<li><span class="cleanuri">/prospectus</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/events</span>
+			<ul>
+				<li><span class="cleanuri">/opendays</span></li>
+				<li><span class="cleanuri">/conferences</span></li>
+				<li><span class="cleanuri">/public_lectures</span></li>
+				<li><span class="cleanuri">/graduation</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/business</span>
+			<ul>
+				<li><span class="cleanuri">/incubation</span></li>
+				<li><span class="cleanuri">/ktp</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/research</span></li>
+		<li><span class="cleanuri">/academic_depts</span>
+			<ul>
+				<li><span class="cleanuri">/{id}</span>
+					<ul>
+						<li><span class="cleanuri">/courses</span>
+							<ul>
+								<li><span class="cleanuri">/undergraduate</span></li>
+								<li><span class="cleanuri">/postgraduate</span></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><span class="cleanuri">/staff</span></li>
+				<li><span class="cleanuri">/news</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/support_depts</span>
+			<ul>
+				<li>/{id}</li>
+				<li>/staff</li>
+				<li>/news</li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/about</span>
+			<ul>
+				<li><span class="cleanuri">/vc</span></li>
+				<li><span class="cleanuri">/parents</span></li>
+				<li><span class="cleanuri">/{city}</span></li>
+				<li><span class="cleanuri">/campuses</span>
+					<ul>
+						<li><span class="cleanuri">/{id}</span></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/search</span></li>
+		<li><span class="cleanuri">/press</span>
+			<ul>
+				<li><span class="cleanuri">/facts</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/news</span>
+			<ul>
+				<li><span class="cleanuri">/{date}</span></li>
+				<li><span class="cleanuri">/{id}</span></li>
+				<li><span class="cleanuri">/search/{query}</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/jobs</span></li>
+		<li><span class="cleanuri">/legal</span>
+			<ul>
+				<li><span class="cleanuri">/policies</span></li>
+				<li><span class="cleanuri">/data_protection</span></li>
+				<li><span class="cleanuri">/environment</span></li>
+				<li><span class="cleanuri">/equality</span></li>
+				<li><span class="cleanuri">/foi</span></li>
+				<li><span class="cleanuri">/ict</span></li>
+				<li><span class="cleanuri">/website</span></li>
+				<li><span class="cleanuri">/regulations</span></li>
+			</ul>
+		</li>
+		<li><span class="cleanuri">/contact</span>
+			<ul>
+				<li><span class="cleanuri">/staff</span></li>
+				<li><span class="cleanuri">/{id}</span></li>
+				<li><span class="cleanuri">/search/{query}</span></li>
+			</ul>
+		</li>
+	</ul>
 		
 	<!--<h2>Discuss This</h2>
 	
@@ -25,7 +151,7 @@
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
 	
-</div> 
+</article> 
 
 <aside class="grid_4 last"> 
 
