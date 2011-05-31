@@ -34,7 +34,7 @@
 		color: green;
 	}
 	.redirect_highlight{
-		color: #3030E4;
+		color: #2020D6;
 	}
 	</style> 
 	
