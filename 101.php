@@ -13,6 +13,34 @@
 		<p>A HTTP URI is made of two parts, one of which (generally) identifies the server and the other of which (generally) identifies a resource on that server. Exceptions to this will always exist due to the fluid nature of the web &mdash; for example where an institution uses complex load balancing &mdash; but the assumption will apply to the vast majority of cases. An example URI would be <span class="cleanuri">http://example.com/section/resource.htm</span>. In this URI we can begin by looking at the scheme, in this case HTTP. This leaves <span class="cleanuri">example.com/section/resource.htm</span> as the unique part of the identifier; the part which identifies a resource. Everything up until the first slash is the server address or domain, in this case <span class="cleanuri">example.com</span>. Everything after the slash identifies the resource within that domain, in this instance <span class="cleanuri">section/resource.htm</span>.</p>
 		
 		<p>In the case of academic institutions the domain is mostly unchangeable, being inextricably linked with the institution to which it is associated. A change of domain name for an established institution would be extremely rare, and only happen should the institution substantially change its name (such as the University of Lincolnshire and Humberside becoming the University of Lincoln, and <span class="cleanuri">ulh.ac.uk</span> becoming <span class="cleanuri">lincoln.ac.uk</span>). However, the resource identifier is easily altered by changing the configuration of a web server. This toolkit therefore focusses on the resource identifier part of the URI, with the exception of the <a href="http://lncn.eu/toolkit/domains">Domains</a> section.</p>
+		
+	<h2>Best Practises</h2>
+	
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+	
+	<div class="box bg_light">
+		
+		<div class="accordion_me">
+			
+			<h3><a href="#test">Test</a></h3>
+			<div id="test">
+			
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			
+			</div>
+			
+			<h3><a href="#test2">Test</a></h3>
+			<div id="test2">
+			
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			
+			</div>
+			
+		</div>
+		
+	</div>
 	
 	<!--<h2>Discuss This</h2>
 	
