@@ -2,11 +2,11 @@
 		
 	<h1>Data Model</h1>
 	
-	<p>This is the HEI URI model we are recommending to the sector as a result of our analysis of existing institutional website structures and also our own opinions on URI structure.</p>
+	<p>This is the HEI URI model we are recommending to the sector as a result of our analysis of existing institutional website structures and also our own informed opinions on URI structure.</p>
 	
 	<p>As developers we are used to the concept of objects and key/values and this is reflected in the model's structure. We've gone for namespaced type/identifier object nodes, such as <span class="uri">/event/openday/{identifier}</span>, <span class="uri">/about/campuses/{identifier}</span>, and <span class="uri">/academic_departments/{identifier}/courses</span>.</p>
 	
-	<p>The only contention we had on the model was whether or not to have courses as a top level object, or have them as a sub-object of student type (undergraduate/postgraduate/foundation). In the end we went with sub-objects as this seems to be a standard that other HEIs have agreed on because postgraduate courses are structured and administered in a different way to undergraduate courses. Despite this individual courses should still always be forwarded to the <span class="uri">/course/{id}</span> resource, as a course in itself has no undergraduate or postgraduate status outside of the institution's own administrative structure.
+	<p>The only contention we had on the model was whether or not to have courses as a top level object, or have them as a sub-object of student type (undergraduate/postgraduate/foundation). In the end we went with sub-objects as this seems to be a standard that other HEIs have agreed on because postgraduate courses are structured and administered in a different way to undergraduate courses. Despite this, individual courses should still always be forwarded to the <span class="uri">/course/{id}</span> resource, as a course in itself has no undergraduate or postgraduate status outside of the institution's own administrative structure.
 	</p>
 	
 	<p class="cleanuri">yourdomain.ac.uk</p>
