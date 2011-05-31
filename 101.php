@@ -38,7 +38,7 @@
 				<p>URIs across a site must be consistent in format. Once you pick your URI structure, be consistent and follow it! Having good URI structure for part of the site means that you still have poor structure overall. In order for a user to trust that URIs work a certain way on a site, the format must be consistent. If you must switch structure (maybe you’re updating a poorly-designed site), use 301 redirects as previously mentioned.</p>
 				
 				<p>
-					An example of poor consistency would be having undergraduate information located at .ac.uk/undergraduate and postgraduate information at .ac.uk/study/postgraduate.
+					An example of poor consistency would be having undergraduate information located at <span class="uri">/undergraduate</span> and postgraduate information at <span class="uri">/study/postgraduate</span>.
 				</p>
 				
 				<p>
@@ -51,20 +51,20 @@
 			<h3><a href="#readability">Readability</a></h3>
 			<div id="readability">
 			
-				<p>A URI can simply be used as a 'click to' point on the internet. There’s nothing stopping an HEI putting a page on courses in the School of Computing at http://example.ac.uk/bcwi83b. You plug it into a link, people click the link and off you go. Technically this is sound, but only in the same sense that you can technically address a letter to something like "10, SW1A 2AA". Yes it’s compact and yes it works, but it conveys absolutely nothing in terms of context. It’s also a real pain to remember, and requires you to use additional bits of your brain if you’re ever writing it down for later reference or typing it into a browser address bar.
+				<p>A URI can simply be used as a 'click to' point on the internet. There’s nothing stopping an HEI putting a page on courses in the School of Computing at <span class="cleanuri">http://example.ac.uk/bcwi83b</span>. You plug it into a link, people click the link and off you go. Technically this is sound, but only in the same sense that you can technically address a letter to something like "10, SW1A 2AA". Yes it’s compact and yes it works, but it conveys absolutely nothing in terms of context. It’s also a real pain to remember, and requires you to use additional bits of your brain if you’re ever writing it down for later reference or typing it into a browser address bar.
 				</p>
 
 				<p>Imagine for a second that a prospectus had the following:</p>
 
-    			<blockquote>Find out more about Computing at http://example.ac.uk/bcwi83b</blockquote>
+    			<blockquote>Find out more about Computing at <span class="cleanuri">http://example.ac.uk/bcwi83b</span></blockquote>
 
 				<p>And then compare it with a ‘human’ address:</p>
 
-   				<blockquote>Find out more about Computing at http://example.ac.uk/school/computing</blockquote>
+   				<blockquote>Find out more about Computing at <span class="cleanuri">http://example.ac.uk/school/computing</span></blockquote>
 
 				<p>Now, try to remember the first one without looking at it. In short, URIs should describe your content (but in a short and succinct manner).</p>
 				
-				<p>Whatever method you use to create your website, it must be able to generate human readable URIs. Increasingly web browsers are allowing people to <a href="http://linkingyou.blogs.lincoln.ac.uk/2011/04/18/the-evolution-of-the-address-bar/">search through their history</a> based on URI fragments, meaning that while a URI such as "example.ac.uk/computing" will be easily found, "institution.ac.uk/_depts/cs" won’t be. Even worse would be the style of URI which is often created by an incorrectly configured CMS, such as "insitution.ac.uk/content/027463".</p>
+				<p>Whatever method you use to create your website, it must be able to generate human readable URIs. Increasingly web browsers are allowing people to <a href="http://linkingyou.blogs.lincoln.ac.uk/2011/04/18/the-evolution-of-the-address-bar/">search through their history</a> based on URI fragments, meaning that while a URI such as <span class="uri">/computing</span> will be easily found, <span class="uri">/_depts/cs</span> won’t be. Even worse would be the style of URI which is often created by an incorrectly configured CMS, such as <span class="uri">ac.uk/content/027463</span>.</p>
 							
 			</div>
 			
@@ -77,7 +77,7 @@
 				
 				<ul>
 					<li>In order to decide which content to render based on a hashbang URI, a hashbang enabled website relies on a user having a modern JavaScript enabled web browser.</li>
-					<li>Hashbangs are invisible to the server, so if someone visits http://example.ac.uk/!#/badurl (which triggers a 404), the error will not appear in your server logs.</li>
+					<li>Hashbangs are invisible to the server, so if someone visits <span class="cleanuri">http://example.ac.uk/!#/badurl</span> (which triggers a 404), the error will not appear in your server logs.</li>
 					<li>Hashbangs are forever, so if you go hashbang you can't go back. You can control the links on your website, however you can't control other people's links to your website. If people start linking to your hashbanged URIs then you're going to have to support the parsing of hashbangs even if you implement "fixed" URIs again.</li>
 				</ul>
 				
@@ -86,7 +86,7 @@
 				</p>
 				
 				<p>
-					For example, if you you want to move from http://example.ac.uk/undergraduate to http://example.com/undergraduate/courses you'd provide a link, which when clicked, would AJAX load in the content from the other page and update the URI in the navigation bar, or for a user with an older browser it would just load the other page as normal.
+					For example, if you you want to move from  <span class="cleanuri">http://example.ac.uk/undergraduate</span> to  <span class="cleanuri">http://example.com/undergraduate/courses</span> you'd provide a link, which when clicked, would AJAX load in the content from the other page and update the URI in the navigation bar, or for a user with an older browser it would just load the other page as normal.
 				</p>
 							
 			</div>
@@ -106,7 +106,7 @@
 		
 	</div>
 	
-	<!--<h2>Discuss This</h2>
+	<h3>Discuss This</h3>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -125,7 +125,7 @@
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>-->
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>
 	
 </article> 
 
