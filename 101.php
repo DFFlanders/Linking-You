@@ -43,7 +43,7 @@
 			<h3><a href="#readability">Readability</a></h3>
 			<div id="readability">
 			
-				<p>A URI can technically be used purely as a 'click to' point on the internet. There’s nothing stopping a HEI website putting a page on courses in the School of Computing at http://example.ac.uk/bcwi83b. You plug it into a link, people click the link and off you go. Technically this is sound, but only in the same sense that you can technically address a letter to something like "10, SW1A 2AA". Yes it’s compact and yes it works, but it conveys absolutely nothing in terms of context. It’s also a real pain to remember, and requires you to use additional bits of your brain if you’re ever writing it down for later reference or typing it into a browser address bar.
+				<p>A URI can simply be used as a 'click to' point on the internet. There’s nothing stopping an HEI putting a page on courses in the School of Computing at http://example.ac.uk/bcwi83b. You plug it into a link, people click the link and off you go. Technically this is sound, but only in the same sense that you can technically address a letter to something like "10, SW1A 2AA". Yes it’s compact and yes it works, but it conveys absolutely nothing in terms of context. It’s also a real pain to remember, and requires you to use additional bits of your brain if you’re ever writing it down for later reference or typing it into a browser address bar.
 				</p>
 
 				<p>Imagine for a second that a prospectus had the following:</p>
@@ -56,7 +56,7 @@
 
 				<p>Now, try to remember the first one without looking at it.</p>
 				
-				<p>Whatever method you use to create your website, it must be able to generate human readable URIs. Increasingly web browsers are allowing people to search through their history based on URI fragments, meaning that whilst a URI such as "example.ac.uk/computing" will be easily found, "institution.ac.uk/_depts/cs" won’t be. Even worse would be the style of URI which is often created by an incorrectly configured CMS, such as "insitution.ac.uk/content/027463".</p>
+				<p>Whatever method you use to create your website, it must be able to generate human readable URIs. Increasingly web browsers are allowing people to <a href="http://linkingyou.blogs.lincoln.ac.uk/2011/04/18/the-evolution-of-the-address-bar/">search through their history</a> based on URI fragments, meaning that while a URI such as "example.ac.uk/computing" will be easily found, "institution.ac.uk/_depts/cs" won’t be. Even worse would be the style of URI which is often created by an incorrectly configured CMS, such as "insitution.ac.uk/content/027463".</p>
 							
 			</div>
 			
@@ -119,7 +119,7 @@
 		
 		<p>This toolkit is recommending something called "Cool URIs". This is an important part of creating understandable, reusable and memorable addresses.</p>
 		
-		<p>A cool URI is one which is entirely human readable, and stripped of as much 'technical' information as possible. Where an 'uncool' URI might be something like <span class="uri">/_course/J933.aspx</span> a 'cool' URI would be <span class="uri">/course/audioproduction</span>. Although the length may be similar, the cool URI is much more readable and helps to orient the user in a virtual space.</p>
+		<p>A cool URI is one which is entirely human readable, and stripped of as much 'technical' information as possible. Where an 'uncool' URI might be something like <span class="uri">/_course/J933.aspx</span> a 'cool' URI would be <span class="uri">/course/audioproduction</span>. Although the length may be similar, the cool URI is much more readable and helps to orient the user in your web space.</p>
 		
 		<p>Uncool URIs are commonly found on sites using legacy or badly configured CMS systems, where a page may be represented by a seemingly random identifier such as <span class="uri">/index.asp?content=64927</span>. There are many technical methods for dealing with uncool URIs and transitioning to the recommended cool alternatives. Linking You recommends the use of HTTP 3xx status codes &mdash; such as HTTP 301 Moved Permanently &mdash; as these deal seamlessly with users using the old URI, as well as keeping search engine rankings mostly unaffected.</p>
 		
