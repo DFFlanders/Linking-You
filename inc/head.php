@@ -33,6 +33,9 @@
 	.uri_replace {
 		color: green;
 	}
+	.redirect_highlight{
+		color: #3030E4;
+	}
 	</style> 
 	
 </head> 
