@@ -134,7 +134,18 @@
 		<p>You may be more familiar with referring to URIs as URLs. This isn't (for the most part) wrong and the distinction is mostly academic, but the generally accepted term in technical publications by Internet standards bodies is to use "URI".</p>
 		
 		<p>For a more in-depth look at why we're using URI instead of URL we recommend taking a look at <a href="http://tools.ietf.org/html/rfc3305">RFC 3305</a>, a document jointly published by the W3C and IETF standards groups.</p>
-	
+	</div>
+
+	<div class="box bg_light">
+
+		<h2>Key documents</h2>
+
+		<p><a href="http://www.w3.org/2001/tag/doc/selfDescribingDocuments-2008-12-03.html">The Self-Describing Web</a></p> 
+		<p><a href="http://www.w3.org/TR/webarch/">Architecture of the World Wide Web, Volume One</a></p> 
+		<p><a href="http://tools.ietf.org/html/rfc3986">Uniform Resource Identifier (URI): Generic Syntax</a></p> 
+		<p><a href="http://www.w3.org/TR/cooluris/">Cool URIs for the Semantic Web</a></p> 
+		<p><a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></p> 
+		<p><a href="http://tools.ietf.org/html/rfc2616">Hypertext Transfer Protocol -- HTTP/1.1</a></p> 
 	</div>
 
 </aside>
