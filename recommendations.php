@@ -66,10 +66,15 @@
 
 <aside class="grid_4 last">
 	<div class="box bg_light">
-		<blockquote>A resource can be anything that has identity.</blockquote>
-		<p><a href="http://tools.ietf.org/html/rfc2396">RFC 2396, Uniform Resource Identifiers (URI): Generic Syntax</a></p>
+		<blockquote>
+			A resource can be anything that has identity.
+			<cite><a href="http://tools.ietf.org/html/rfc2396">RFC 2396, Uniform Resource Identifiers (URI): Generic Syntax</a></cite>
+		</blockquote>
 		
-		<blockquote>Think of the URI space as an abstract space, perfectly organized.</blockquote>
-		<p><a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></p>
+		<blockquote>
+			Think of the URI space as an abstract space, perfectly organized.
+			<cite><a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></cite>
+		</blockquote>
+		
 	</div>
 </aside>
