@@ -105,12 +105,8 @@
 		</div>
 		
 	</div>
-	
-<<<<<<< HEAD
+
 	<h2>Discuss This</h2>
-=======
-	<h3>Discuss This</h3>
->>>>>>> 131b2df932bebf1302e286a03c6bfee6ee2849c0
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
