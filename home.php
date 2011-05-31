@@ -52,7 +52,7 @@
 
 <aside class="grid_4 last"> 
 	
-	<div class="">
+	<div class="box bg_light">
 	
 		<h2>Get The Poster</h2>
 		
