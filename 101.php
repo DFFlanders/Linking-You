@@ -1,4 +1,4 @@
-<div class="grid_8"> 
+<article class="grid_8"> 
 		
 	<h1>URI 101</h1>
 	
@@ -35,7 +35,7 @@
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>-->
 	
-</div> 
+</article> 
 
 <aside class="grid_4 last"> 
 

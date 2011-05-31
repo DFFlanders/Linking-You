@@ -1,4 +1,4 @@
-<div class="grid_8">
+<article class="grid_8">
 
 	<h1>Recommendations</h1>
 
@@ -40,10 +40,10 @@
 	<p>Sixth, to complement the technical focus of our recommendations, we need to better understand the organisational challenges involved, too. We therefore recommend that work is undertake to survey, interview and case study web managers' and other stakeholder attitudes around the use and "value of URIs".</p> 
 	
 	<p>Finally, a couple of extensions we've given ourselves on this project: One is to extend our study of 40 institutions to complete the national picture of over 100 HEI websites. We began thinking we'd compare our own URI structures with a couple of other institutions, then we increased this to looking at 20. When we hit 20, we realised that 40 wouldn't be too difficult to do and might give us more confidence in our proposed model. Now, having hit the deadline of the Linking You project, we're still keen to do more and intend to complete a national comparative study before the end of the academic year. Secondly, we also intend to reformat this toolkit as a Briefing Paper and send one to stakeholders in every institution along with a poster of the proposed model to stick on their walls.</p>
-</div>
+</article>
 
 
-<div class="grid_4 last">
+<aside class="grid_4 last">
 	<div class="box">
 		<blockquote>
 			A resource can be anything that has identity. <a href="http://tools.ietf.org/html/rfc2396">RFC 2396, Uniform Resource Identifiers (URI): Generic Syntax</a>
@@ -53,4 +53,4 @@
 			Think of the URI space as an abstract space, perfectly organized. <a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a>
 		</blockquote>
 	</div>
-</div>
+</aside>
