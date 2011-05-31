@@ -31,16 +31,16 @@
 
 <p>Fourth, attention needs to be given to the way institutions transition to a shared ontology for the sector. Research needs to be done that examines and recommends strategies for migrating from existing and legacy URI structures to a model of best practice. HTTP 3xx status codes are at the heart of this.</p>
 
-<p>Fifth, we think that the work of the Linking You project could be extended to look at the use of other areas of institutional websites. While we concentrated on our "corporate" website, we recognise that this is just one aspect of university cyberspace and more needs to be done to understand what makes up the whole. This could be tied in with a study of institution’s use of CMS products, which would give us a better appreciation of the technical barriers and opportunities for change that are available to HEIs.</p> 
+<p>Fifth, we think that the work of the Linking You project could be extended to look at the use of other areas of institutional websites. While we concentrated on our "corporate" website, we recognise that this is just one aspect of university cyberspace and more needs to be done to understand what makes up the whole. This could be tied in with a study of institution's use of CMS products, which would give us a better appreciation of the technical barriers and opportunities for change that are available to HEIs.</p> 
 
-<p>Sixth, to complement the technical focus of our recommendations, we need to better understand the organisational challenges involved, too. We therefore recommend that work is undertake to survey, interview and case study web managers’ and other stakeholder attitudes around the use and "value of URIs".</p> 
+<p>Sixth, to complement the technical focus of our recommendations, we need to better understand the organisational challenges involved, too. We therefore recommend that work is undertake to survey, interview and case study web managers' and other stakeholder attitudes around the use and "value of URIs".</p> 
 
-<p>Finally, a couple of extensions we've given ourselves on this project: One is to extend our study of 40 institutions to complete the national picture of over 100 HEI websites. We began thinking we’d compare our own URI structures with a couple of other institutions, then we increased this to looking at 20. When we hit 20, we realised that 40 wouldn't be too difficult to do and might give us more confidence in our proposed model. Now, having hit the deadline of the Linking You project, we're still keen to do more and intend to complete a national comparative study before the end of the academic year. Secondly, we also intend to reformat this toolkit as a Briefing Paper and send one to stakeholders in every institution along with a poster of the proposed model to stick on their walls.</p>
+<p>Finally, a couple of extensions we've given ourselves on this project: One is to extend our study of 40 institutions to complete the national picture of over 100 HEI websites. We began thinking we'd compare our own URI structures with a couple of other institutions, then we increased this to looking at 20. When we hit 20, we realised that 40 wouldn't be too difficult to do and might give us more confidence in our proposed model. Now, having hit the deadline of the Linking You project, we're still keen to do more and intend to complete a national comparative study before the end of the academic year. Secondly, we also intend to reformat this toolkit as a Briefing Paper and send one to stakeholders in every institution along with a poster of the proposed model to stick on their walls.</p>
 </div>
 
 
 <div class="grid_4 last">
-	<div class="">
+	<div class="box">
 		<blockquote>
 			A resource can be anything that has identity. <a href="http://tools.ietf.org/html/rfc2396">RFC 2396, Uniform Resource Identifiers (URI): Generic Syntax</a>
 		</blockquote>
