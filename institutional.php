@@ -26,7 +26,7 @@
 			There is very little agreement about the URI structure for undergraduate and postgraduate information and course pages, and especially for postgraduate course information there is no agreement whatsoever, with only one institution - Kingston - with a URI that follows the Linking You recommendation (/postgraduate/courses).
 		</p>
 	
-	<!--<h2>Discuss This</h2>
+	<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
@@ -45,6 +45,6 @@
 	    })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>	-->
+	<a href="http://disqus.com" class="dsq-brlink">Comments powered by <span class="logo-disqus">Disqus</span></a>
 	
 </article>
