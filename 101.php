@@ -46,7 +46,7 @@
 				<p>A URI can technically be used purely as a 'click to' point on the internet. There’s nothing stopping a HEI website putting a page on courses in the School of Computing at http://example.ac.uk/bcwi83b. You plug it into a link, people click the link and off you go. Technically this is sound, but only in the same sense that you can technically address a letter to something like "10, SW1A 2AA". Yes it’s compact and yes it works, but it conveys absolutely nothing in terms of context. It’s also a real pain to remember, and requires you to use additional bits of your brain if you’re ever writing it down for later reference or typing it into a browser address bar.
 				</p>
 
-				<p>Imagine for a second that a prospectus had the following:<p>
+				<p>Imagine for a second that a prospectus had the following:</p>
 
     			<blockquote>Find out more about Computing at http://example.ac.uk/bcwi83b</blockquote>
 
@@ -60,7 +60,7 @@
 							
 			</div>
 			
-			<h3><a href="#hashbang">Hashbangs are bad, pushState are good</a></h3>
+			<h3><a href="#hashbang">Hashbangs are bad, pushState is good</a></h3>
 			<div id="hashbang">
 			
 				<p>A number of websites, including Twitter and Gawker Media (Lifehacker, Gizmodo, etc) have recently re-architected their websites to make use of hashbang URIs &mdash; e.g. https://twitter.com/!#/unilincoln. <a href="http://code.google.com/web/ajaxcrawling/docs/getting-started.html">The hashbang was recommended by Google</a> as a way for search engines to crawl AJAX powered websites.</p>
@@ -80,7 +80,7 @@
 				<p>
 					For example, if you you want to move from http://example.ac.uk/undergraduate to http://example.com/undergraduate/courses you'd provide a link, which when clicked, would AJAX load in the content from the other page and update the URI in the navigation bar, or for a user with an older browser it would just load the other page as normal.
 				</p>
-			
+							
 			</div>
 			
 		</div>
