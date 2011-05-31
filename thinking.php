@@ -22,7 +22,7 @@
 	
 	<div class="box">
 
-		<blockquote>“What, design a URI? I have to design URIs? Yes, you have to think about it.” <a href="http://www.w3.org/Provider/Style/URI">Berners-Lee 1998 W3C Style. Cool URIs don’t change.</a></blockquote></div>
+		<blockquote>“What, design a URI? I have to design URIs? Yes, you have to think about it.” <a href="http://www.w3.org/Provider/Style/URI">Berners-Lee 1998 W3C Style. Cool URIs don’t change.</a></blockquote>
 
 		<blockquote>And now the campus is massive, one of those dominant modern environments of multi-functionality that modern man creates: close it down as a university…and you could open it again as a factory, a prison, a shopping precinct. (Malcolm Bradbury, The History Man 1975, 69)</blockquote>
 
