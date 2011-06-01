@@ -68,6 +68,21 @@
 							
 			</div>
 			
+			<h3><a href="#short">Remove unnecessary fluff</a></h3>
+			<div id="short">
+				<p>
+					Following on from the above point about readability, it is possible to take clean URIs too far by including unnecessary information in the URI.
+				</p>
+				
+				<p>
+					For example, an about page with the URI <span class="uri">/about_the_university</span> whilst accurate and readable, could and should be shortened to <span class="uri">/about</span> because it doesn't lose any of it's meaning but still describes the content well.
+				</p>
+				
+				<p>
+					Watch out for content management systems generating URIs based on page titles.
+				</p>
+			</div>
+			
 			<h3><a href="#hashbang">Hashbangs are bad, pushState is good</a></h3>
 			<div id="hashbang">
 			
