@@ -6,7 +6,7 @@
 						
 		<iframe style="width:100%;height:400px" frameborder='0' src='https://spreadsheets1.google.com/pub?hl=en_GB&hl=en_GB&key=0AuO04KEqnewAdC1mSzhYYXpMZWZfM2I5ZXpvb0JYWkE&single=true&gid=1&output=html&widget=true'></iframe>
 			
-		<p class="notice">This data was collected during the final days of May 2011 &mdash; institutions may have modified their URI structures since this point.</p>
+		<p class="notice margin_top">This data was collected during the final days of May 2011 &mdash; institutions may have modified their URI structures since this point.</p>
 		
 		<p>The data represents key areas of a total of 40 higher education institutional websites, as well as highlighting the differences that institutions have in URI structure. We studied 10 institutions from four of the UK university collaboration groups &mdash; the 1994 Group, the Russell Group, the Alliance Group and the Million+ group.</p>
 				
