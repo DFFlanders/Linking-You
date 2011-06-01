@@ -9,7 +9,7 @@
 	<p>The only contention we had on the model was whether or not to have courses as a top level object, or have them as a sub-object of student type (undergraduate/postgraduate/foundation). In the end we went with sub-objects as this seems to be a standard that other HEIs have agreed on because postgraduate courses are structured and administered in a different way to undergraduate courses. Despite this, individual courses should still always be forwarded to the <span class="uri">/course/{id}</span> resource, as a course in itself has no undergraduate or postgraduate status outside of the institution's own administrative structure.
 	</p>
 	
-	<p class="cleanuri">yourdomain.ac.uk</p>
+	<p class="cleanuri">institution.ac.uk</p>
 	
 	<ul>
 		<li><span class="cleanuri">/<span class="uri_replace">{ucas_code}</span></span> &rarr; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
@@ -134,6 +134,28 @@
 			</ul>
 		</li>
 	</ul>
+	
+	<h2>Easy conformance</h2>
+	
+	<p>There are a couple of easy steps that institutions can take to conform to the model above today.</p>
+	
+	<ol>
+		<li>Add Apache/ISS/Nginx redirects to existing pages and advertise these redirects instead:<br>
+		e.g. Set up a redirect from <span class="uri">/undergraduate/courses</span> to <span class="uri">/study/undergraduate/courses</span>
+		</li>
+		<li>
+			<p>Add a CNAME record for www. to the DNS for the domain to add support for prefix less addresses:<br>
+			e.g. CNAME <span class="cleanuri">www.example.ac.uk.</span> &rarr; <span class="cleanuri">example.ac.uk.</span></p>
+			
+			<p>
+			Then update Apache/IIS/Nginx to add an alias for the domain:<br>
+			e.g. (Apache):<br>
+			<pre>
+ServerName institution.ac.uk
+ServerAlias www.institution.ac.uk</pre>
+			</p>
+		</li>
+	</ol>
 		
 	<h2>Discuss This</h2>
 	
