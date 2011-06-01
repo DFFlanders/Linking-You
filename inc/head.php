@@ -22,7 +22,7 @@
 	<script src="https://cwd.online.lincoln.ac.uk/3.0/js/modernizr.js"></script> 
 	
 	<style> 
-	#cwd_header { background: url('http://lncn.eu/img/toolkit.jpg') center; }
+	#cwd_header { background: url('http://lncn.eu/toolkit/toolkit.jpg') center; }
 	.uri, .cleanuri {
 		font-family: Courier, monospace;
 	}
@@ -49,9 +49,9 @@
 	
 		<section class="cwd_container"> 
 	
-			<hgroup class="grid_12 visuallyhidden" id="cwd_hgroup"> 
+			<hgroup class="grid_12" id="cwd_hgroup"> 
 						
-				<a href="/3.0"> 
+				<a href="/3.0">
 					<h1>Linking You Toolkit</h1>
 				</a> 
 							
