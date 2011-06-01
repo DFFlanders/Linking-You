@@ -14,7 +14,7 @@
 		
 		<p>Where a column has green highlights they indicate that the URI for that area follows the recommended Linking You "Cool URI". However, where a column is not highlighted it does not indicate a problem with the URI. In many cases different URIs exist for historical or local reasons and - while not what we'd recommend for maximum cross-institution compatibility - are entirely valid.</p>
 		
-		<h2>Everyone Is Different</h2>
+		<h2>Everyone is different</h2>
 		
 		<p>As this is the first study of its kind into HEI website URI structures, and there are no pre-existing recommendations, we were expecting little correlation between the websites however for in some cases this isn’t the case.</p>
 		
@@ -34,7 +34,7 @@
 		
 		<p>In the toolkit we have discussed that <span class="cleanuri">www.</span> prefixes are unnecessary in this day and age. In our study we found most sites we looked at worked well without the www. prefix to the domain name however a quarter of those sites fail completely if the <span class="cleanuri">www.</span> prefix is missed off. The remaining sites force the use of <span class="cleanuri">www.</span> (or another subdomin such as <span class="cleanuri">www1.</span>, <span class="cleanuri">www2.</span>, or <span class="cleanuri">home.</span>) which at least is forgiving. We recommend that all institutions update their domain DNS settings to support no prefix. This is as simple as creating a CNAME to point at the root domain:
 		e.g. CNAME <span class="cleanuri">www.example.ac.uk</span> &rarr; <span class="cleanuri">example.ac.uk</span></p>
-	
+			
 	<h2>Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
