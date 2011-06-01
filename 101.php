@@ -68,7 +68,7 @@
 							
 			</div>
 			
-			<h3><a href="#short">Remove unnecessary fluff</a></h3>
+			<h3><a href="#short">Remove unnecessary keywords</a></h3>
 			<div id="short">
 				<p>
 					Following on from the above point about readability, it is possible to take clean URIs too far by including unnecessary information in the URI.
@@ -79,7 +79,26 @@
 				</p>
 				
 				<p>
-					Watch out for content management systems generating URIs based on page titles.
+					Watch out for content management systems generating URIs based on page titles. A URI should be made up of keywords, but only the absolute minimum number of keywords in order to describe the content.
+				</p>
+			</div>
+			
+			<h3><a href="#querystring">Query strings should be for filtering and pagination only</a></h3>
+			<div id="querystring">
+				<p>
+					"Dynamic" URIs, i.e. URIs containing query string arguments such as <span class="uri">/content/page.php?id=1234&output=1</span> should be kept to an absolute minimum, and even then should only be used (if necessary) for filtering content and paginating. 
+				</p>
+				
+				<p>
+					Dynamic URIs are less readable to both humans and search engines and therefore could be seen as less trustworthy because they don't necessarily describe the content to the user.
+				</p>
+				
+				<p>
+					If you need to use query strings then try and ensure they are descriptive:
+				</p>
+				
+				<p>
+					e.g. <span class="uri">/undergraduate/courses?years=2</span> or <span class="uri">/events?page=2</span>
 				</p>
 			</div>
 			
