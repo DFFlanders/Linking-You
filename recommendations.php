@@ -68,13 +68,13 @@
 	<div class="box bg_light" style="margin-top:55px">
 		<blockquote>
 			A resource can be anything that has identity.
-			<cite>Tim Berners-Lee et al, <a href="http://tools.ietf.org/html/rfc2396">RFC 2396, Uniform Resource Identifiers (URI): Generic Syntax</a></cite>
+			<cite>Berners-Lee et al, <a href="http://tools.ietf.org/html/rfc2396">RFC 2396, Uniform Resource Identifiers (URI): Generic Syntax</a></cite>
 		</blockquote>
 	</div>
 	<div class="box bg_light" style="margin-top:60px">
 		<blockquote>
 			Think of the URI space as an abstract space, perfectly organized.
-			<cite>Tim Berners-Lee, <a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></cite>
+			<cite>Berners-Lee, <a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></cite>, 1998
 		</blockquote>
 		
 	</div>

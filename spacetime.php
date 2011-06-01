@@ -46,7 +46,7 @@
 	
 		<blockquote>
 			"What, design a URI? I have to design URIs? Yes, you have to think about it."
-			<cite>Berners-Lee 1998 W3C Style. <a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change.</a></cite>
+			<cite>Berners-Lee, <a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change, 1998</a></cite>
 		</blockquote>
 		
 	</div>
