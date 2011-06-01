@@ -12,14 +12,14 @@
 	<p class="cleanuri">yourdomain.ac.uk</p>
 	
 	<ul>
-		<li><span class="cleanuri">/<span class="uri_replace">{ucas_code}</span></span> &middot; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
+		<li><span class="cleanuri">/<span class="uri_replace">{ucas_code}</span></span> &rarr; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
 		<li><span class="cleanuri">/courses</span></li>
 		<li><span class="cleanuri">/course/<span class="uri_replace">{id}</span></span></li>
 		<li><span class="cleanuri">/undergraduate</span>
 			<ul>
 				<li><span class="cleanuri">/courses</span>
 					<ul>
-						<li><span class="cleanuri">/<span class="uri_replace">{id}</span></span> &middot; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
+						<li><span class="cleanuri">/<span class="uri_replace">{id}</span></span> &rarr; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
 						<li><span class="cleanuri">/search/<span class="uri_replace">{query}</span></span></li>
 						<li><span class="cleanuri">/entry_requirements</span></li>
 					</ul>
@@ -31,7 +31,7 @@
 			<ul>
 				<li><span class="cleanuri">/courses</span>
 					<ul>
-						<li><span class="cleanuri">/<span class="uri_replace">{id}</span></span> &middot; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
+						<li><span class="cleanuri">/<span class="uri_replace">{id}</span></span> &rarr; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
 						<li><span class="cleanuri">/search/<span class="uri_replace">{query}</span></span></li>
 						<li><span class="cleanuri">/entry_requirements</span></li>
 					</ul>
@@ -43,7 +43,7 @@
 			<ul>
 				<li><span class="cleanuri">/courses</span>
 					<ul>
-						<li><span class="cleanuri">/<span class="uri_replace">{id}</span></span> &middot; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
+						<li><span class="cleanuri">/<span class="uri_replace">{id}</span></span> &rarr; <span class="redirect_highlight">Redirect</span> to appropriate <span class="cleanuri">/course/<span class="uri_replace">{id}</span></span>.</li>
 						<li><span class="cleanuri">/entry_requirements</span></li>
 					</ul>
 				</li>
@@ -71,21 +71,21 @@
 					<ul>
 						<li><span class="cleanuri">/courses</span>
 							<ul>
-								<li><span class="cleanuri">/undergraduate</span> &middot; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/undergraduate/courses/search/<span class="uri_replace">{query}</span></span>.</li>
-								<li><span class="cleanuri">/postgraduate</span> &middot; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/postgraduate/courses/search/<span class="uri_replace">{query}</span></span>.</li>
+								<li><span class="cleanuri">/undergraduate</span> &rarr; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/undergraduate/courses/search/<span class="uri_replace">{query}</span></span>.</li>
+								<li><span class="cleanuri">/postgraduate</span> &rarr; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/postgraduate/courses/search/<span class="uri_replace">{query}</span></span>.</li>
 							</ul>
 						</li>
 					</ul>
 				</li>
-				<li><span class="cleanuri">/staff</span> &middot; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/contact/search/<span class="uri_replace">{query}</span></span>.</li>
-				<li><span class="cleanuri">/news</span> &middot; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/news/search/<span class="uri_replace">{query}</span></span>.</li>
+				<li><span class="cleanuri">/staff</span> &rarr; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/contact/search/<span class="uri_replace">{query}</span></span>.</li>
+				<li><span class="cleanuri">/news</span> &rarr; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/news/search/<span class="uri_replace">{query}</span></span>.</li>
 			</ul>
 		</li>
 		<li><span class="cleanuri">/support_depts</span>
 			<ul>
 				<li>/<span class="uri_replace">{id}</span></li>
-				<li>/staff &middot; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/contact/search/<span class="uri_replace">{query}</span></span>.</li>
-				<li>/news &middot; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/news/search/<span class="uri_replace">{query}</span></span>.</li>
+				<li>/staff &rarr; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/contact/search/<span class="uri_replace">{query}</span></span>.</li>
+				<li>/news &rarr; <span class="redirect_highlight">Redirect</span> to <span class="cleanuri">/news/search/<span class="uri_replace">{query}</span></span>.</li>
 			</ul>
 		</li>
 		<li><span class="cleanuri">/about</span>
