@@ -106,7 +106,7 @@
 		
 	</div>
 
-	<h2>Discuss This</h2>
+	<h2 class="margin_top">Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
