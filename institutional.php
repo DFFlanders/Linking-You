@@ -10,21 +10,32 @@
 		
 		<p>The data represents key areas of a total of 40 higher education institutional websites, as well as highlighting the differences that institutions have in URI structure. We studied 10 institutions from four of the UK university collaboration groups &mdash; the 1994 Group, the Russell Group, the Alliance Group and the Million+ group.</p>
 				
-		<p>The red highlights represent where a website (at the time of the survey) goes against Linking You recommended practices, and where such a behaviour is heavily discouraged for technical or usability reasons. In the case of the "WWW Required" column it means that the site is not accessible without the <span class="cleanuri">www.</span> prefix (see <a href="http://lncn.eu/toolkit/domains">Domains</a> for more on this), and in the case of the "404 Redirect" column it means that the behaviour effectively breaks the internet's expected behaviour model.</p>
-		
+		<p>The red highlights represent where a website (at the time of the survey) goes against Linking You recommended practices, and where such a behaviour is heavily discouraged for technical or usability reasons. In the case of the "WWW Required" column it means that the site is not accessible without the www. prefix (see <a href="http://lncn.eu/toolkit/domains">Domains</a> for more on this), and in the case of the "404 Redirect" column it means that the behaviour effectively breaks the Internets expected behaviour model.</p>
+
 		<p>An orange highlight in the "WWW Required" column indicates that although the behaviour is technically sound and does not significantly impact the user's experience it still goes against the Linking You recommendations.</p>
 		
-		<p>Where a column has green highlights they indicate that the URI for that area follows the recommended Linking You "Cool URI". However, where a column is not highlighted it does not indicate a problem with the URI. In many cases different URIs exist for historical or local reasons and &mdash; while not what we'd recommend for maximum cross-institution compatibility &mdash; are entirely valid.</p>
+		<p>Where a column has green highlights they indicate that the URI for that area follows the recommended Linking You "Cool URI". However, where a column is not highlighted it does not indicate a problem with the URI. In many cases different URIs exist for historical or local reasons and - while not what we'd recommend for maximum cross-institution compatibility - are entirely valid.</p>
 		
 		<h2>Everyone Is Different</h2>
 		
-		<p>
-			As this is the first study of its kind into higher educational institution website URI structures, and there are no pre-existing recommendations, we were expecting little correlation between the websites and this mostly is the case.
-		</p>
+		<p>As this is the first study of its kind into HEI website URI structures, and there are no pre-existing recommendations, we were expecting little correlation between the websites however for in some cases this isn’t the case.</p>
 		
-		<p>
-			There is very little agreement about the URI structure for undergraduate and postgraduate information and course pages, and especially for postgraduate course information there is no agreement whatsoever, with only one institution - Kingston - with a URI that follows the Linking You recommendation (/postgraduate/courses).
-		</p>
+		<p>We discovered there is very little consistency about the URI structure for undergraduate and postgraduate information and course pages, and especially for postgraduate course information there is no agreement whatsoever, with only one institution - Kingston - with a URI that follows the structure we’re recommending (/postgraduate/courses).</p>
+		
+		<p>However, for some of the more “static” pages such as research and business services, most institutions seems to have followed best practise (and again, what we are recommending in our model) by using /business/ and /research/ as the namespaces. Those institutions using alternative URIs for these pages there appears to be a mixture of content management systems influencing the URIs (e.g. Reading: /working-with-business) and alternative terms such as /enterprise and /partnerships.</p>
+		
+		<p>One interesting trend can be found in the about pages. Most institutions go with the URI /about, however a lot of universities have their abbreviated name in the URI, e.g. Nottingham Trent: /about_ntu, and De Montford: /about_dmu. Again, this could be down to the content management system rendering URIs based on page titles, but in any case this is case of having unnecessary information in the URI which goes against best practises.</p>
+		
+		<p>Also a number of institutions place their contact page inside the /about namespace which seems illogical because contacting the university is a call to action and therefore deserves it’s own top level URI at /contact.</p>
+		
+		<p>We also examined some other important aspects of websites such as presence of a sitemap and error redirection and the requirement of a www. prefix to the domain.</p>
+		
+		<p>Sitemaps allow both humans and search engines discover content in your site and they should always be in the root. A number of websites we examined do have sitemaps however the call them “a to z” or indexes which are accurate but really should follow the correct web terminology which is “sitemap”.</p>
+		
+		<p>Error redirections are a very important issue. If I went to /foobarfooey which is unlikely to be a real web page then I expect the web server to issue a 404 webpage with a 404 header. Likewise if there is a server error (error 500) or I visit a web page I’m not authorised to access (error 401), the server should keep me at the address I visited (in this case /foobarfooey) and not redirect me to a dedicated error page. Websites that redirect on error break the web because they use a 301 (moved permanently) or 307 (temporarily moved) header which basically mean that the content existed at some point (which is untrue) and the content can now be found at the dedicated error page which in-turn issues a 404 content not found header. This is really bad practise.</p>
+		
+		<p>In the toolkit we have discussed that www. prefixes are unnecessary in this day and age. In our study we found most sites we looked at worked well with out the www. prefix to the domain name however a quarter of those sites fail completely if the www. prefix is missed off. The remaining sites force the use of www. (or another subdomin such as www1., www2., or home.) which at least is forgiving. We recommend that all institutions update their domain DNS settings to support no prefix. This is as simple as creating a CNAME to point at the root domain:
+		e.g. CNAME www.example.ac.uk -> example.ac.uk</p>
 	
 	<h2>Discuss This</h2>
 	
