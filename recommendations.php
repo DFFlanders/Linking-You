@@ -74,7 +74,7 @@
 	<div class="box bg_light" style="margin-top:60px">
 		<blockquote>
 			Think of the URI space as an abstract space, perfectly organized.
-			<cite>Berners-Lee, <a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a></cite>, 1998
+			<cite>Berners-Lee, <a href="http://www.w3.org/Provider/Style/URI">Cool URIs don't change</a>, 1998</cite>
 		</blockquote>
 		
 	</div>
