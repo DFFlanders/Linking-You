@@ -39,6 +39,10 @@
 	.bg_light blockquote {
 		border-left-color: #bbb;
 	}
+	
+	#cwd_hgroup h1 {
+		bottom: 10px;
+	}
 	</style> 
 	
 </head> 
