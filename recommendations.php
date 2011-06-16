@@ -27,7 +27,7 @@
 	
 	<p>In addition to these principles, the Linking You project has its own recommendations, too.</p>
 	
-	<div class="accordion_me">
+	<div class="accordion_me margin_top margin_bottom">
 	
 		<h3><a href="#one">1. Shared vocabulary</a></h3>
 		
