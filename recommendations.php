@@ -25,9 +25,9 @@
 	
 	<p>In essence, much of this could be broadly understood as 'digital literacy', where the learning <strike>land</strike>cyberscape is designed to engender capable, confident and critical individuals engaged in research, teaching and learning, so that they are <a href="http://studentasproducer.lincoln.ac.uk">active producers</a> of their own social world. It feels like the work required to really understand and take advantage of our new university space-time has hardly begun.</p>
 	
-	<p>In addition to these principles, the Linking You project has its own recommendations, too.</p>
+	<p class="margin_bottom">In addition to these principles, the Linking You project has its own recommendations, too.</p>
 	
-	<div class="accordion_me margin_top margin_bottom">
+	<div class="accordion_me">
 	
 		<h3><a href="#one">1. Shared vocabulary</a></h3>
 		
@@ -73,7 +73,7 @@
 			
 	</div>
 
-	<h2>Discuss This</h2>
+	<h2 class="margin_top">Discuss This</h2>
 	
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
