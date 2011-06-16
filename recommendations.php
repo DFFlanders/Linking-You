@@ -27,19 +27,51 @@
 	
 	<p>In addition to these principles, the Linking You project has its own recommendations, too.</p>
 	
-	<p>The first is the need for a shared vocabulary - one that is understood and used by academic and managerial stakeholders within universities and across the sector. One of the key aims of the Learning Landscapes project was to "provide a clearly understood vocabulary within which the future development of the University can be articulated, in order to better inform the design of the built environment of higher education." This same approach is common across many other domains, not least that of web architecture, and our comparison of 40 institutional websites has identified where there is already agreement around a shared vocabulary and where there is divergence. In short, we'd like to see the data model in our toolkit be developed into an ontology for the HEI sector. We've made a start with our model, but we'd like to see a national working group that includes academics, professional services and students.</p>
+	<div class="accordion_me">
 	
-	<p>Second, we'd like to see this proposed vocabulary inform and be informed by the work being done on data.ac.uk, ideally adopting the ontology as the definitive model for organising data.ac.uk. This would not only demonstrate that the ontology has formal backing but also encourage contributors to data.ac.uk to use the ontology in their own institutions.</p>
-	
-	<p>Third, we think there's mileage in scoping out and prototyping an open directory of UK HEI data objects e.g. courses, people, research centres, locations, etc. This could act as a halfway house for institutional web managers not able or willing to contribute to data.ac.uk but do wish to publish their URI endpoints for the convenience of developers and researchers. Our comparative study of 40 institutions is a start (and we intend to add to it), but something more sustainable needs to be put in place.</p>
-	
-	<p>Fourth, attention needs to be given to the way institutions transition to a shared ontology for the sector. Research needs to be done that examines and recommends strategies for migrating from existing and legacy URI structures to a model of best practice. HTTP 3xx status codes are at the heart of this.</p>
-	
-	<p>Fifth, we think that the work of the Linking You project could be extended to look at the use of other areas of institutional websites. While we concentrated on our 'corporate' website, we recognise that this is just one aspect of university cyberspace and more needs to be done to understand what makes up the whole. This could be tied in with a study of institutional use of CMS products, which would give us a better appreciation of the technical barriers and opportunities for change that are available to HEIs.</p> 
-	
-	<p>Sixth, to complement the technical focus of our recommendations, we need to better understand the organisational challenges involved, too. We therefore recommend that work is undertake to survey, interview and case study web managers' and other stakeholder attitudes around the use and 'value of URIs'.</p> 
-	
-	<p>Finally, a couple of extensions we've given ourselves on this project: One is to further our study of 40 institutions to complete the national picture of over 100 HEI websites. We began the project by thinking we'd compare our own URI structures with a couple of other institutions, then we increased this to looking at 20. When we hit 20, we realised that 40 wouldn't be too difficult to do and might give us more confidence in our proposed model. Now, having hit the deadline of the Linking You project, we're still keen to do more and intend to complete a national comparative study before the end of the academic year. Secondly, we also intend to reformat this toolkit as a Briefing Paper and send one to stakeholders in every institution along with a poster of the proposed model to stick on their walls.</p>
+		<h3><a href="#one">1. Shared vocabulary</a></h3>
+		
+		<div id="one">
+			<p>The first is the need for a shared vocabulary - one that is understood and used by academic and managerial stakeholders within universities and across the sector. One of the key aims of the Learning Landscapes project was to "provide a clearly understood vocabulary within which the future development of the University can be articulated, in order to better inform the design of the built environment of higher education." This same approach is common across many other domains, not least that of web architecture, and our comparison of 40 institutional websites has identified where there is already agreement around a shared vocabulary and where there is divergence. In short, we'd like to see the data model in our toolkit be developed into an ontology for the HEI sector. We've made a start with our model, but we'd like to see a national working group that includes academics, professional services and students.</p>
+		</div>
+		
+		<h3><a href="#two">2. data.ac.uk</a></h3>
+		
+		<div id="two">
+			<p>Second, we'd like to see this proposed vocabulary inform and be informed by the work being done on data.ac.uk, ideally adopting the ontology as the definitive model for organising data.ac.uk. This would not only demonstrate that the ontology has formal backing but also encourage contributors to data.ac.uk to use the ontology in their own institutions.</p>
+		</div>
+		
+		<h3><a href="#three">3. UK HEI data objects</a></h3>
+		
+		<div id="three">
+			<p>Third, we think there's mileage in scoping out and prototyping an open directory of UK HEI data objects e.g. courses, people, research centres, locations, etc. This could act as a halfway house for institutional web managers not able or willing to contribute to data.ac.uk but do wish to publish their URI endpoints for the convenience of developers and researchers. Our comparative study of 40 institutions is a start (and we intend to add to it), but something more sustainable needs to be put in place.</p>
+		</div>
+		
+		<h3><a href="#four">4. Migration</a></h3>
+		
+		<div id="four">
+			<p>Fourth, attention needs to be given to the way institutions transition to a shared ontology for the sector. Research needs to be done that examines and recommends strategies for migrating from existing and legacy URI structures to a model of best practice. HTTP 3xx status codes are at the heart of this.</p>
+		</div>
+		
+		<h3><a href="#five">5. Further study into institutional websites</a></h3>
+		
+		<div id="five">
+			<p>Fifth, we think that the work of the Linking You project could be extended to look at the use of other areas of institutional websites. While we concentrated on our 'corporate' website, we recognise that this is just one aspect of university cyberspace and more needs to be done to understand what makes up the whole. This could be tied in with a study of institutional use of CMS products, which would give us a better appreciation of the technical barriers and opportunities for change that are available to HEIs.</p>
+		</div>
+		
+		<h3><a href="#six">6. Understand organisation challenges</a></h3>
+		
+		<div id="six">
+			<p>Sixth, to complement the technical focus of our recommendations, we need to better understand the organisational challenges involved, too. We therefore recommend that work is undertake to survey, interview and case study web managers' and other stakeholder attitudes around the use and 'value of URIs'.</p>
+		</div>
+		
+		<h3><a href="#seven">7. Complete our study of institutions' websites</a></h3>
+		
+		<div id="seven">
+			<p>Finally, a couple of extensions we've given ourselves on this project: One is to further our study of 40 institutions to complete the national picture of over 100 HEI websites. We began the project by thinking we'd compare our own URI structures with a couple of other institutions, then we increased this to looking at 20. When we hit 20, we realised that 40 wouldn't be too difficult to do and might give us more confidence in our proposed model. Now, having hit the deadline of the Linking You project, we're still keen to do more and intend to complete a national comparative study before the end of the academic year. Secondly, we also intend to reformat this toolkit as a Briefing Paper and send one to stakeholders in every institution along with a poster of the proposed model to stick on their walls.</p>
+		</div>
+			
+	</div>
 
 	<h2>Discuss This</h2>
 	
