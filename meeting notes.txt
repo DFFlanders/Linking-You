@@ -1,0 +1,221 @@
+Chair: Joss
+Notes: David, et al http://piratepad.net/ARHuJCtdLi
+
+Attending: 
+ * Alex (Lincoln)
+ * Joss (Lincoln)
+ * Nick (Lincoln)
+ * David (Lincoln)
+ * Chris (Southampton)
+ * Scott (CETIS)
+ * Mathieu (Open)
+ * Jane (Birkbeck)
+ * Paul (UKOLN)
+ * Tony (Open)
+
+Actions:
+
+David: #action? create a listserv with some vendors assigned onto it and enable a discussion
+11:19 David: #action provide a default .htaccess file
+11:19 David: #action provide a default sitemap file
+13:35 David: #action DFF to contact Naomi and Charles re legal sections
+
+1. Introductions:
+
+First group of people to review the project
+End of the day to get agreement, how to improve it and how to push it forward.
+
+2. Going over the toolkit
+
+Cool URIs and APIs and their applicability to University websites <-- what is their value?
+
+Original context of projecct was within a larger project called "learning landscapes"
+ * the value of land and what that means in a virtual space
+ * are we still using language 
+ * institutions are continually restructing
+   * the continual state of flux around the ideas of departments and faculty, let alone the merger of institutions
+ * Is it a sensible strategy to talk in terms of realestate for senior managment?
+   * yes.
+ * organisational structures are used by VCs to push forward change agendas
+ * Lincoln tried to break out of hierarchical model and move to a more flat level.
+   * e.g. lincoln.ac.uk/socs = school of computer science
+ * How you can talk about it?
+   * use of identifiers is an abstract space and should be generically treated
+     * nor user content or navigation
+ * Difference between how you talk about the website (realestate) and how you design it (abstract URL structure)
+ * How to save money?
+   * spend a lot of money on making links working and preserving old addresses
+   * comms won't care
+   * URLs should resolve over time
+ * at Lincoln
+   * Terminal4 CMS were given the template
+   * Acarie CMS in Ireland?
+     * Curriculum management
+   * Other open source systems
+     * Wordpress
+     * Drupal
+     * Plone/Zope
+   * Estate Managment Systems
+   * Portal 
+     * U-Portal
+ * use case - why would these URIs matter?
+   * because they are imporrtant to SEO, data driven 
+     * being able to pivot on identifiers to find other information
+ * Difference between the maitenance argument of having well structred URIs so it saves costs of maitainance vs. having an argument for why this is valuable for marketting and presentation of the website.
+   * what are the opportunities for 
+   * consisten information about the courses and its offerings
+ * user going to type in link and having a sitemap on the results that explain what they want to know.
+   * URI that identify documents for the University
+ * location vs identifiers: where to find stuff as opposed to how you identify stuff.
+ * Review of spec
+   * /courses
+     * different systems will deliver 
+     * use of multiple URLs into same course, e.g. Information Technology vs Computer Science
+   * /undergraduate
+     * vs. "information about undergraduate studies"
+     * ?/courses/undergraduate/courses/* allows custom search by path over undergrad courses
+   * /postgraduate
+     * how much are these needed beyond what the front page of courses would provide?
+   * /foundation
+     * FE courses for entry level 
+   * /.../prospectus
+     * course catalogue
+   * /events
+     * events available to the public?
+       * open day
+       * innagural lectures
+       * public lectures
+       * societies
+       * exhibitions
+       * library events
+       * training courses
+       * research conferences
+       * per subject events
+       * per geo events
+     * may be an events management system
+     * often redirect to other sites
+     * importance of .ics / .rss / etc
+     * place to keep recorded 
+     * event/{id} - archive events
+   * /business <-- should this be flattened
+     * /incubation /enterprise
+       * /industry
+     * /ktp <-- cool URIs?
+   * /research
+     * /publications
+   * /academic-department <--
+   * /support-department <-- list of support services that are provided
+     * organisational units (LDAP OUs)
+     * OUs can have any of top-level components (e.g. ou/1/events, ou/1/staff etc)
+     * No OUs inside OUs
+     * OUs can be of any size/level in org (research unit, department, faculty..) but still flat URI scheme
+     * /ou/{id}
+   * /about
+     * /welcome /vc
+     * /parents <-- somewhere else? what else does the data say
+     * {city} <-- top level?
+     * /campuses - call "sites" - top level?]
+     * /map ???
+     * /directions ???
+   * /search <-"q?="
+   * /press
+     * /facts <-- move to about
+     * /kit <-- ???
+   * /news
+   * /jobs <-- different between 
+   * /legal - make top level - speak to JISC Legal
+   * /privacy
+   * /foi
+   * /data-protection
+   * /contact
+     * end point to a directory system
+   * /people
+     * /{id}
+
+Recommendations
+
+1. Yes, create vocabularly
+2. Not data.ac.uk but something else. courses.ac.uk people.ac.uk press.ac.uk
+3. Drop this. Benchmark and league table of conformance. XCRI/OERs/Repository collections
+4. .htaccess and sitemap.xml and schema.org (what's the story) and basic good practice guidance
+5. OK
+6.'value of URLs', IWMW workshop, CMS providers, data community, discussion list for suppliers,
+7.  Add more? Use script?
+
+Label as 'draft' recommendations. 
+Do more around KIS. Contact Andy Youell at HESA
+Remove arrows from poster
+Emphasise key directories and then make further recommendations.
+
+Value Add:
+ * continuity of information
+ * extending schema.org
+ * consistent sitemaps/views/google results for users (user viewpoint rather than developer viewpoint)
+ * jisc able to have anything in this URL structure archived for the long term via web archive
+ * is persistence important of these URLs important
+
+recommendations ins't around adopting a syntax but rather adopting a vocabulary, what do we call these documents, not where we can find them.
+
+
+/courses
+/research
+/people
+/events
+/jobs
+/directions /contact
+/news
+/applications
+
+/open education material
+/research_outoutputs
+
+
+
+(I wonder if Joss had read this: http://virtualsociety.sbs.ox.ac.uk/pick/pick6.htm ) No, but I will!
+
+
+===================================================================
+
+Scott's things to mention:
+1. IWMW
+2. CMS vendor/supplier engagement (t4, contensis)
+3. Julie Hardman's research: http://elframework.org/projects/xcri/xcri_research_v0c.doc/download 
+4. Standardisation processes
+5. KIS
+6. Curriculum Management System product category (e.g. http://www.akarisoftware.com/ )
+
+===================================================================
+
+Joss notes:
+
+Earlier  meeting about identifiers. Decision to be more pragmatic. How can we  drive more users to institutional websites. What are the gains to be  had? What is the value to institutions? What do 'cool URIs' mean for  institutions? 
+
+What is valuable to do next? What is really implementable? 
+
+Where did the problem question come from? 
+
+What is wrong with our websites? What does this need addressing?
+
+Tony Hirst represents a particular kind of user of HEI websites. Developer/user.
+
+What is the 2005 report? Contensis/Terminal 4 are two big CMS products.
+http://www.jisc.ac.uk/whatwedo/services/techwatch/reports/horizonscanning/hs0102 
+
+Model looks at upper level syntax. Less sure about deep levels. 
+
+Documents not data, though redirects to data end-points recommended.
+
+Feeds for public events
+
+Consistency of plural/singular
+
+Underscores or hyphens
+
+remove _depts
+
+remove /academic/ and /support/
+
+/ou/
+
+location OR maps OR directions
+
